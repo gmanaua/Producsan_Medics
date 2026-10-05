@@ -1,0 +1,2875 @@
+{
+ "store": {
+  "name": "Producsan Mèdics S.L.",
+  "address": "Rambla Josep Tarradellas nº3, local 3",
+  "city": "08860 Castelldefels, Barcelona",
+  "mobile": "655 903 996",
+  "phone": "93 156 19 28",
+  "email": "producsan@producsan.es",
+  "logo": "https://producsan.es/cms/img/my-site-logo-1528656356.jpg"
+ },
+ "categories": [
+  {
+   "id": 3,
+   "name": "Algodón y celulosa",
+   "count": 31
+  },
+  {
+   "id": 10,
+   "name": "Apósitos y gasas",
+   "count": 30
+  },
+  {
+   "id": 21,
+   "name": "Desinfección e higiene",
+   "count": 27
+  },
+  {
+   "id": 34,
+   "name": "Esparadrapos y tiritas",
+   "count": 20
+  },
+  {
+   "id": 41,
+   "name": "Especialidades",
+   "count": 27
+  },
+  {
+   "id": 42,
+   "name": "Equipos y recambios",
+   "count": 15
+  },
+  {
+   "id": 40,
+   "name": "Esterilización",
+   "count": 5
+  },
+  {
+   "id": 38,
+   "name": "Instrumental",
+   "count": 25
+  },
+  {
+   "id": 5,
+   "name": "Mobiliario",
+   "count": 5
+  },
+  {
+   "id": 37,
+   "name": "Protección",
+   "count": 36
+  },
+  {
+   "id": 4,
+   "name": "Punción",
+   "count": 31
+  },
+  {
+   "id": 39,
+   "name": "Suturas",
+   "count": 12
+  },
+  {
+   "id": 6,
+   "name": "Vendajes",
+   "count": 20
+  },
+  {
+   "id": 44,
+   "name": "Varios",
+   "count": 26
+  },
+  {
+   "id": 45,
+   "name": "Laboratorio",
+   "count": 18
+  }
+ ],
+ "products": [
+  {
+   "id": 1,
+   "name": "ALGODON ARROLLADO 1Kg",
+   "img": "https://producsan.es/cms/img/p/1/8/18-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/8/18-home_default.jpg",
+   "desc": "Algodón enrrollado en paquetes de 1 Kg elaborado a partir de fibras de puro algodón 100%",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 2,
+   "name": "CELULOSA PRECORTADA (2 ROLLOS 1000 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/7/27-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/7/27-home_default.jpg",
+   "desc": "Celulosa Precortada no estéril se emplea para heridas externas, para la limpieza de la piel antes de inyectar, como material absorvente en caso de heridas pequeñas, así como para diversas actividades de laboratorio. Presentación: 1 bolsa con 2 rollos. Total 1000 piezas de celulosa",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 3,
+   "name": "EMPAPADOR LINDOR CARE 40x60cm (B/30 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/9/29-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/29-home_default.jpg",
+   "desc": "Empapador LINDOR CARE (B/30 Unid) Empapador de suave celulosa absorbente y capa de tissúe que distribuye los líquidos, revestimiento completo de \"non-woven\" que cubre los bordes. Indicado, principalmente, como protección principal en casos de incontinencia.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 4,
+   "name": "PARCHE OFTALMOLOGICO ESTERIL (C/90 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/0/30-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/0/30-home_default.jpg",
+   "desc": "Compresas oculares con cobertura de gasa, interior de algodón puro; especialmente suaves y absorbentes; de larga duración y efecto de almohadillado. Protección de heridas y absorción de exudados minimizando el traumatismo en los cambios de apósito y evitando arrastrar los tejidos nuevos al retirar el apósito.",
+   "cats": [
+    3,
+    10
+   ]
+  },
+  {
+   "id": 21,
+   "name": "APOSITO ADHESIVO DE ALTA TOLERANCIA \"COVERMED\"",
+   "img": "https://producsan.es/cms/img/p/3/2/32-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/2/32-home_default.jpg",
+   "desc": "Apósito Covermed es una tira recortable de TNT.Ideal para cubrir todo tipo de heridas como cortes, abrasiones o después de la extracción de sangre.CARACTERÍSTICAS Adhesivo acrílico hipoalergénico, sin látex Alta tolerancia cutánea Ayuda a prevenir la maceración de la piel Permeable al vapor de agua y al aire Apósito adhesivo no tejido suave y adaptable...",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 22,
+   "name": "APÓSITO HYPAFIX",
+   "img": "https://producsan.es/cms/img/p/3/4/34-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/4/34-home_default.jpg",
+   "desc": "Hypafix es un auto-adhesivo en TNT de color blanco y recubierto con adhesivo hipoalergénico sobre un soporte de papel. Proporciona una cobertura completa del apósito, reduciendo el riesgo de contaminación. Excelente adaptabilidad a las articulaciones y permite al paciente una mayor libertad de movimiento. Es permeable al aire y humedad.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 23,
+   "name": "APÓSITO OMNIFIX",
+   "img": "https://producsan.es/cms/img/p/3/5/35-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/5/35-home_default.jpg",
+   "desc": "Omnifix se utiliza para la fijación en superficies grandes. Dotado de elasticidad transversal que permite una aplicación sin pliegues ni arrugas y se adapta a cada curva del cuerpo Es suave, transpirable, hipoalergénico y dermatológicamente testadoEs fácil de usar: la escala de medición impresa en el papel siliconado facilita cortarlo con exactitud. El...",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 24,
+   "name": "APÓSITO QUIRÚRGICO COSMOPOR-E (C/50 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/6/36-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/6/36-home_default.jpg",
+   "desc": "Apósito autoadhesivo COSMOPOR E es ideal para tratamientos de heridas post-operatorias y pequeñas lesiones cutáneas.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 25,
+   "name": "APOSITO EN TNT MAIMED ESTERIL (C/25 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/7/37-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/7/37-home_default.jpg",
+   "desc": "Apósito estéril para post operatorio suave con la piel. Color blanco. Presentación en caja de 25 unidades.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 27,
+   "name": "APOSITO EN SPRAY NOBECUTAN®",
+   "img": "https://producsan.es/cms/img/p/4/1/41-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/1/41-home_default.jpg",
+   "desc": "NOBECUTAN SPRAY 250 ml. Es un apósito en forma de aerosol, que al ser depositado sobre la piel, actúa formando una delgada película adherente, muy elástica y transparente al vapor y a la humedad.Compuesto por un copolímero acrílico, acetato de etilo, disulfuro de tetrametiltiouramio, propelente",
+   "cats": [
+    10,
+    6
+   ]
+  },
+  {
+   "id": 29,
+   "name": "APOSITO EN TNT MEDICOMP NO ESTERIL (Paq/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/2/42-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/2/42-home_default.jpg",
+   "desc": "Apósito en TNT 30gr (P/ 100 UNID) Compresas de tejido sin tejer, fabricadas con un 70% de viscosa y un 30% de poliester; sin agentes blanqueantes ni tensoactivos; altamente absorbentes, suaves y permeables al aire; se pueden cortar sin dejar hilos. Para el tratamiento general de heridas, como gasa cobertora o absorbente tanto para curas como para...",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 30,
+   "name": "APÓSITO EN TNT MEDICOMP ESTERIL (C/40 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/3/43-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/3/43-home_default.jpg",
+   "desc": "Apósito en TNT de 30gr, sobre con 5 apósitos. Presentación en caja/dispensador de 40 sobres. Compresas de tejido sin tejer, fabricadas con un 70% de viscosa y un 30% de poliester. Para el tratamiento general de heridas.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 31,
+   "name": "APOSITO HIDROFILM PLUS (C/50 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/4/44-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/4/44-home_default.jpg",
+   "desc": "Apósito Ésteril auto-adhesivo transparente que tiene una gasa de alta absorción. El film es de poliuretano impermeable a los gérmenes y al agua. Ayuda a tratar las heridas. No se adhiere a la herida, ni irrita la piel. Al ser transparente permite controlar mejora la herida. Presentación: C/ 50 Unid.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 39,
+   "name": "TIRITAS \"COVERMED\" (C/100 Unid) LEUKOPLAST",
+   "img": "https://producsan.es/cms/img/p/6/8/68-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/8/68-home_default.jpg",
+   "desc": "Presentación: Caja de 100 unidades. Embolsado individual. Las tiras en TNT Covermed tienen un adhesivo de alta tolerancia cutánea, por lo que son óptimas para pieles sensibles, así como para cubrir heridas de cicatrización lenta o cortes, abrasiones, zona de extracción de sangre o de vacunación.",
+   "cats": [
+    10,
+    34
+   ]
+  },
+  {
+   "id": 40,
+   "name": "TIRITA PLASTICO \"COVERPLAST S\" (C/ 100 Unid)",
+   "img": "https://producsan.es/cms/img/p/6/9/69-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/9/69-home_default.jpg",
+   "desc": "Presentación: Caja de 100 unidades. Embolsado individual. Tiritas de plástico perforado Coverplast Standard. Embolsado individual.Tiritas Coverplast Standard para pequeñas heridas y lesiones menores.",
+   "cats": [
+    10,
+    34
+   ]
+  },
+  {
+   "id": 41,
+   "name": "TIRITAS REDONDAS \"HARTMANN\" (C/ 1000 Unid)",
+   "img": "https://producsan.es/cms/img/p/7/0/70-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/7/0/70-home_default.jpg",
+   "desc": "Presentación: Caja de 1000 unidades. Ø 22mm Las TIRITAS REDONDAS PLASTICAS HARTMANN están indicadas para el tratamiento rápido de heridas leves. Hechas de film de Polietileno microperforado de color piel, con adhesivo de caucho sintético hipoalergénico y gasa muy absorbente, pueden despegarse sin dolor.",
+   "cats": [
+    10,
+    34
+   ]
+  },
+  {
+   "id": 42,
+   "name": "TIRITA PLASTICO ECOPORE Ø 22mm (C/100 Unid)",
+   "img": "https://producsan.es/cms/img/p/7/3/73-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/7/3/73-home_default.jpg",
+   "desc": "Presentacion: C/100 unidades Tiritas hipoalergénicas de plástico impermeables al agua y a la suciedad. Ideales para el cuidado rápido e higiénico de las pequeñas heridas.",
+   "cats": [
+    10,
+    34
+   ]
+  },
+  {
+   "id": 43,
+   "name": "TIRITA ECOPORE 19x72mm (C/100 Unid)",
+   "img": "https://producsan.es/cms/img/p/7/5/75-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/7/5/75-home_default.jpg",
+   "desc": "Presentación: Caja de 100 Unidades. Tiritas hipoalergénicas de TNT ADHESIVO. Ideales para el cuidado rápido e higiéncio de las pequeñas heridas.",
+   "cats": [
+    10,
+    34
+   ]
+  },
+  {
+   "id": 44,
+   "name": "PAÑUELOS FACIALES (C/ 100 unid)",
+   "img": "https://producsan.es/cms/img/p/7/7/77-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/7/7/77-home_default.jpg",
+   "desc": "Pañuelos de tissú faciales Ideales incluso para el cuidado de las pieles más sensibles. Suaves y absorbentes.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 45,
+   "name": "PAPEL HIGIENICO INDUSTRIAL 2CP 160m PRECORT (F/18 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/7/8/78-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/7/8/78-home_default.jpg",
+   "desc": "Rollos de papel higienico industrial Toilex, tissu gofrado de 2 capas, 160m precortado. Rollos papel higiénico de gran capacidad. Especialmente indicado para lugares muy frecuentados ya que disminuye el tiempo de reposición de los rollos y proporciona mayor ahorro por no desperdiciar los principios y finales de los rollos. Presentación: Fardo de 18 Rollos",
+   "cats": [
+    3,
+    21
+   ]
+  },
+  {
+   "id": 46,
+   "name": "PAPEL HIGIENICO INDUSTRIAL 1CP 250m (F/18 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/8/2/82-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/8/2/82-home_default.jpg",
+   "desc": "Papel higiénico industrial TOILEX celulosa reciclada 1 CAPA 250m. Presentación: Fardo de 18 rollos El papel Higiénico Industrial Toilex, por su gran longitud, es muy recomendado para servicios muy frecuentados como pueden ser Hospitales, Colegios, Gimnasios, etc.",
+   "cats": [
+    3,
+    21
+   ]
+  },
+  {
+   "id": 47,
+   "name": "PAPEL HIGIENICO DOMESTICO 2CP 23m (F/96 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/8/3/83-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/8/3/83-home_default.jpg",
+   "desc": "Papel higiénico doméstico 2 capas microgofrado 23 m. Presentación: Fardo de 96 Rollos (8 Bolsas de 12 rollos cada uno). Papel higiénico doméstico gofrado, muy absorbente y extremadamente suave, 2 capas. Muy apropiado para lugares con poco espacio, baños pequeños y de poco consumo.",
+   "cats": [
+    3,
+    21
+   ]
+  },
+  {
+   "id": 48,
+   "name": "PAPEL HIGIENICO DOMESTICO 2CP 23m (B/12 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/8/4/84-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/8/4/84-home_default.jpg",
+   "desc": "Papel higiénico doméstico 2 capas microgofrado 23 m. Presentación: Bolsa de 12 Rollos. Papel higiénico doméstico gofrado, muy absorbente y extremadamente suave, 2 capas. Muy apropiado para lugares con poco espacio, baños pequeños y de poco consumo.",
+   "cats": [
+    3,
+    21
+   ]
+  },
+  {
+   "id": 49,
+   "name": "PAPEL SECAMANOS MINI TORK 1CP 120m (F/11 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/8/6/86-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/8/6/86-home_default.jpg",
+   "desc": "Presentación: Fardo de 11 rollos. El papel de secado multiuso Tork de 1 capa es ideal para tareas de secado ligeras y secado de manos. Este papel puede utilizarse con el dispensador de alimentación central Tork® Mini, una solución versátil y compacta para entornos profesionales en los que es necesario secar tanto manos como superficies.",
+   "cats": [
+    3,
+    21
+   ]
+  },
+  {
+   "id": 50,
+   "name": "PAPEL SECAMANOS BOBINA MINI 2CP 70m (F/12 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/8/7/87-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/8/7/87-home_default.jpg",
+   "desc": "Presentación: Fardo de 12 rollos. Papel en Bobina Secamanos MINI-CELEX de extracción central. 100% pasta Tisú. Se utiliza en dispensadores de 'mecha' o extracción central.Posee una densidad apropiada que permite su corte de forma fácil e higiénica. Papel en Bobina Secamanos MINI-CELEX de extracción central es de Doble capa.",
+   "cats": [
+    3,
+    21
+   ]
+  },
+  {
+   "id": 51,
+   "name": "PAPEL SECAMANOS BOBINA GRANDE 2CP 115m (F/6 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/9/0/90-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/9/0/90-home_default.jpg",
+   "desc": "PAPEL SECAMANOS BOBINA GRANDE EN MECHA 2CAPAS, TISSU PASTA GOFRADA, 115 MTS (F/6 Rollos)",
+   "cats": [
+    3,
+    21
+   ]
+  },
+  {
+   "id": 52,
+   "name": "PAPEL SECAMANOS TOALLITAS EN \"Z\" CAPAS TISU (C/ 20 paq x196 Servicios)",
+   "img": "https://producsan.es/cms/img/p/9/1/91-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/9/1/91-home_default.jpg",
+   "desc": "Toallitas Sercamanos DRI-Z. Son toallitas precortadas y plegadas en forma de Z. Color Blanco natural que garantiza sus propiedades de ser 100% reciclado. Producto ecológico y biodegradable ya que una vez desechado se desintegra rápidamente. Producto exento de cloro.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 53,
+   "name": "PAPEL SECAMANOS TOALLITAS EN \"Z\" KATRIN",
+   "img": "https://producsan.es/cms/img/p/9/2/92-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/9/2/92-home_default.jpg",
+   "desc": "Toallitas zig-zag 100% pasta 3 capas, gran absorbencia y suavidad, textura limtech.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 57,
+   "name": "PAPEL CAMILLA 1CP 60cmx70m (C/6 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/9/7/97-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/9/7/97-home_default.jpg",
+   "desc": "Rollo Papel Camilla Clinic Albex 60cm, 1 capa crepa gofrado. Es ideal para este fin ya que es una efectiva barrera biológica ya que está fabricado de fibras de celulosa. De un solo uso. Capa individual.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 58,
+   "name": "PAPEL CAMILLA 2CP 60cmx70m TISU RECICLADO PRECORT (C/6 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/9/8/98-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/9/8/98-home_default.jpg",
+   "desc": "Rollo Papel Camilla Clinic 2c 60cm. Producto que ofrece todas las garantías necesarias como para ser utilizado en la industria hostelera y de la salud. Certificación exento de cloro y ECOLABEL ya que contribuye a la preservación de nuestro planeta. Doble capa que le aporta mayor resistencia y absorción.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 59,
+   "name": "PAPEL CAMILLA 1CP 60cmx75m TISU PASTA (C/6 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/9/9/99-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/9/9/99-home_default.jpg",
+   "desc": "Rollo PAPEL CAMILLA CLINIC TISÚ 1c 60cm. Es una efectiva barrera biológica ya que está fabricado de fibras de celulosa. De un solo uso. El PAPEL CAMILLA CLINIC TISÚ 1c 60cm, exento de cloro y reciclable 100%. Uso recomendado: consultas médicas en centros hospitalarios públicos o privados. Centros de estética. Centros de terapias alternativas. Spas.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 60,
+   "name": "PAPEL CAMILLA 2CP 60cmx80m ECO ADD SYSTEM PRECORTADO (C/6 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/1/0/0/100-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/0/0/100-home_default.jpg",
+   "desc": "Rollo PAPEL CAMILLA CLINIC TISÚ + GOFRADO. Al ser doble capa aporta un extra de confort y garantiza doblemente su resistencia y absorción. Producto con el distintivo de Calidad Ambiental otorgado por la Generalitat de Catalunya. Producto Ecológico por excelencia. El PAPEL CAMILLA CLINIC TISÚ ENCO + GOFRADO Altamente recomendado para su uso en Centros...",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 61,
+   "name": "PAPEL CAMILLA 2CP 46cmx50m ECO ADD SYSTEM PRECORTADO (C/6 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/1/0/1/101-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/0/1/101-home_default.jpg",
+   "desc": "Papel de camilla ancho 46 cm. Cada rollo 50 metros. Ecológico con etiqueta europea Ecolabel. Sistema Add System es un sistema exclusivo de unión de capas encoladas que ofrece mayor resistencia evitando la separación de las mismas. Además, mediante los espacios de aire entre capa y capa proporcionan mayor volumen y esponjosidad.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 62,
+   "name": "PAPEL BOBINA CELULOSA INDUSTRIAL 2CP 400m AZUL PRECORTADO (F/2 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/1/0/2/102-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/0/2/102-home_default.jpg",
+   "desc": "Papel Industrial presentado en Bobina de dos capas encoladas y gofradas, muy absorbente para limpiezas especiales. Papel Industrial es muy utilizado en Talleres mecánicos, manipuladores de alimentos y empresas de limpieza.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 63,
+   "name": "PAPEL BOBINA CELULOSA INDUSTRIAL 3CP 260m AZUL PRECORTADO (F/2 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/1/0/5/105-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/0/5/105-home_default.jpg",
+   "desc": "Papel Industrial presentado en Bobina de dos capas encoladas y gofradas, muy absorbente para limpiezas especiales. Papel Industrial es muy utilizado en Talleres mecánicos, manipuladores de alimentos y empresas de limpieza.",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 64,
+   "name": "TALLA ESTERIL 50X60cm FENESTRADA 6cm CON ADHESIVO (UNID)",
+   "img": "https://producsan.es/cms/img/p/1/0/6/106-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/0/6/106-home_default.jpg",
+   "desc": "Paños plastificados compuestos por tejido absorbente y polietileno impermeable. Cobertores fenestrados con abertura central Ø 6 cm, adhesivos, indicados para *Pequeñas incisiones de abscesos, pequeñas extirpaciones de tumores, puntuaciones y curas de heridas. *Oftalmología, pequeñas extirpaciones de tumores y proctología. *Cirugía pediátrica, hernia y...",
+   "cats": [
+    3
+   ]
+  },
+  {
+   "id": 66,
+   "name": "TALLA ESTÉRIL 45x75cm SIN ADHESIVO IMPERMEABLE (UNID)",
+   "img": "https://producsan.es/cms/img/p/1/0/8/108-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/0/8/108-home_default.jpg",
+   "desc": "Características técnicas: Perfecta adaptación al campo quirúrgico - Alta capacidad de absorción - Alto confort para el pacienteMáxima higiene: no desprende partículas",
+   "cats": [
+    3,
+    37
+   ]
+  },
+  {
+   "id": 68,
+   "name": "TALLA ESTERIL 75x90cm \"FOLIODRAPE\" SIN AHDESIVO (C/35 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/1/0/110-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/1/0/110-home_default.jpg",
+   "desc": "Paños quirúrgicos estériles que vienen en sobres individuales para conseguir la mejor calidad e higiene. Paños compuestos por un suave material de dos capas, que consta de una suave capa de polietileno impermeable a la humedad y a las bacterias y un tejido non-woven hidrofílico de polipropileno. Altamente confortables.",
+   "cats": [
+    3,
+    37
+   ]
+  },
+  {
+   "id": 69,
+   "name": "TALLA ESTERIL 50x60cm \"FOLIODRAPE\" CON ADHESIVO (C/70 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/1/1/111-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/1/1/111-home_default.jpg",
+   "desc": "Paños quirúrgicos estériles que vienen en sobres individuales para conseguir la mejor calidad e higiene. Paños compuestos por un suave material de dos capas, que consta de una suave capa de polietileno impermeable a la humedad y a las bacterias y un tejido non-woven hidrofílico de polipropileno. Altamente confortables.",
+   "cats": [
+    3,
+    37
+   ]
+  },
+  {
+   "id": 74,
+   "name": "TALLA N/ESTERIL 70x100cm BLANCA 30gr (B/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/1/6/116-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/1/6/116-home_default.jpg",
+   "desc": "No se deshacen en contacto con los fluidos. Máxima higiene: evita el contacto con el mobiliario. Hipoalergénico. Alta resistencia a la rotura.",
+   "cats": [
+    3,
+    37
+   ]
+  },
+  {
+   "id": 75,
+   "name": "TOALLA BLANCA DE SECADO 30X40cm TNT 50gr (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/1/7/117-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/1/7/117-home_default.jpg",
+   "desc": "Confortables e hipoalergénicas Textura extrasuave que proporciona un gran confort para el paciente. Gran capacidad de absorción. Se mantiene íntegra cuando está mojada. No se deshace. Minimiza el riesgo de infección cruzada ya que es de un solo uso.",
+   "cats": [
+    3,
+    21
+   ]
+  },
+  {
+   "id": 76,
+   "name": "AGUA OXIGENADA",
+   "img": "https://producsan.es/cms/img/p/1/2/4/124-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/2/4/124-home_default.jpg",
+   "desc": "",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 77,
+   "name": "ALCOHOL 70º",
+   "img": "https://producsan.es/cms/img/p/1/3/0/130-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/3/0/130-home_default.jpg",
+   "desc": "El alcohol al 70º es el que se usa como antiséptico, es bactericida, no bacteriostático, y desnaturaliza las proteínas si no lo dejas evaporar, lo que ocurre en segundos. Estaríamos hablando de desinfección previa a punción.",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 78,
+   "name": "ALCOHOL 96º",
+   "img": "https://producsan.es/cms/img/p/1/3/7/137-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/3/7/137-home_default.jpg",
+   "desc": "También llamado alcohol etílico, su nombre científico es etanol, y la fórmula es CH3-CH2OH. Es un líquido incoloro, inflamable, de un olor agradable característico, con punto de ebullición a 78°C, miscible en agua en todas las proporciones.",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 79,
+   "name": "CEPILLO QUIRÚRGICO SECO NORMAL DISPOMEDIC SCRUB SECO (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/4/2/142-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/4/2/142-home_default.jpg",
+   "desc": "DISPOMEDIC® SCRUB DRY Cepillo con esponja para el lavado de manos y uñas del personal técnico-sanitario. Indicado para el lavado de manos en zonas de alto riesgo. Apto para la higiene del paciente preoperatorio. No reutilizable. Disponible con limpia uñas. Cepillo: Polietileno Esponja: Espuma de poliuretano 100% PRESENTACIÓN: UNIDAD / CAJA x 100 unidades",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 80,
+   "name": "CEPILLO QUIRÚRGICO SECO NORMAL DISPOMEDIC SCRUB SECO. (DISPENSADOR 30 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/4/1/141-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/4/1/141-home_default.jpg",
+   "desc": "DISPOMEDIC® SCRUB DRY Cepillo con esponja para el lavado de manos y uñas del personal técnico-sanitario. Indicado para el lavado de manos en zonas de alto riesgo. Apto para la higiene del paciente preoperatorio. No reutilizable. Disponible con limpia uñas. Cepillo: Polietileno Esponja: Espuma de poliuretano 100% PRESENTACIÓN: Caja dispensador con 30 unidades",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 81,
+   "name": "CEPILLO QUIRÚRGICO CON POVIDONA (UNID)",
+   "img": "https://producsan.es/cms/img/p/1/4/3/143-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/4/3/143-home_default.jpg",
+   "desc": "Cepillo quirúrgico con esponja con Povidona yodada 7,5%. Indicado para el lavado pre-quirúrgico de manos. Apto para la desinfección del profesional en preoperatorio. Solo para piel sana. No reutilizable.",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 82,
+   "name": "CEPILLO QUIRÚRGICO CON CLORHEXIDINA 4%",
+   "img": "https://producsan.es/cms/img/p/6/7/1/671-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/7/1/671-home_default.jpg",
+   "desc": "Cepillo quirúrgico con esponja con digluconato de clorhexidina 4%. Indicado para desinfección quirúrgica de manos en. Apto para la desinfección del paciente pre-operatorio. Solo para piel sana. No reutilizable.",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 83,
+   "name": "POVIDONA YODADA",
+   "img": "https://producsan.es/cms/img/p/1/4/5/145-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/4/5/145-home_default.jpg",
+   "desc": "Solución antiséptica para el tratamiento de heridas superficiales. Bactericida de amplio espectro y antifúngico contra dermatofitos y cándida. Se trata de un complejo molecular de iodo con povidona. El complejo, como tal, carece de actividad hasta que se va liberando el yodo, verdadero responsable de la acción antiséptica. El yodo tiene un espectro...",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 84,
+   "name": "ESPONJAS JABONOSAS PH NEUTRO (B/24 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/4/6/146-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/4/6/146-home_default.jpg",
+   "desc": "Esponja jabonosa, uso sanitario, desechable, lista para liberar todas sus propiedades en el momento que entra en contacto con agua. Especialmente destinada para el lavado de pieles sensibles gracias a las propiedades hidratantes y suavizantes de su gel pH 5.5. El gel se activa con pocas gotas de agua y libera toda su espuma para realizar una higiene...",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 86,
+   "name": "SOLUCION GEL STERILIUM 475 ml CON DOSIFICADOR",
+   "img": "https://producsan.es/cms/img/p/1/4/9/149-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/4/9/149-home_default.jpg",
+   "desc": "Solución alcohólica en gel para manos. Protector y regenerador para la piel. Para la desinfección higiénica y quirúrgica de las manos por frotación. Eficaz frente a un amplio espectro de bacterias, hongos y virus encapsulados.",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 91,
+   "name": "DESINFECTANTE SUPERFICIES EN SPRAY/ESPUMA INSTRUNET SURFA SAFE 750ml",
+   "img": "https://producsan.es/cms/img/p/1/5/5/155-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/5/5/155-home_default.jpg",
+   "desc": "Espuma detergente desinfectante para la limpieza y desinfección de las superficies de productos sanitarios y estructuras externas de equipamiento médico (respiradores, equipos de hemodiálisis…), productos sanitarios no invasivos y no sumergibles (estetoscopios, cables y dispositivos de conexión, sensores de presión, glucómetros,…)",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 93,
+   "name": "DESINFECTANTE PARA INSTRUMENTAL INSTRUNET ENZIMATICO GPL 1L",
+   "img": "https://producsan.es/cms/img/p/1/5/9/159-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/5/9/159-home_default.jpg",
+   "desc": "INSTRUNET ENZIMATICO GPL INIBSA 1 L detergente trienzimático para la limpieza y desincrustación manual de instrumental clínico y endoscópico.INDICACIONES: Limpieza y desincrustación manual de instrumental clínico y endoscópico. Coadyuvante en máquinas de ultrasonidos.",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 94,
+   "name": "JABON LIQUIDO INSTRUNET DESINFECTANTE BIOCIDA BOTE 500ML",
+   "img": "https://producsan.es/cms/img/p/6/7/2/672-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/7/2/672-home_default.jpg",
+   "desc": "Jabón antiséptico de manos para piel sana, con acción biocida, que proporciona una desinfección, higiene y limpieza rápida y eficaz. El jabón antiséptico INSTRUNET BIOCIDA M15",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 95,
+   "name": "DESINFECTANTE INSTRUMENTAL INSTRUNET EZ+T PLUS 1L",
+   "img": "https://producsan.es/cms/img/p/1/6/1/161-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/6/1/161-home_default.jpg",
+   "desc": "Detergente líquido cuatrienzimático con potente acción limpiadora. Limpieza y desincrustación manual del instrumental endoscópico e instrumental clínico. Coadyuvante en máquinas de ultrasonidos.",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 97,
+   "name": "DESINFECTANTE INSTRUMENTAL ANIOXYDE INSTRUNET 5L",
+   "img": "https://producsan.es/cms/img/p/1/6/4/164-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/6/4/164-home_default.jpg",
+   "desc": "Desinfectante de Alto Nivel con Ácido Peracético para instrumental clínico, material endoscópico, material termosensible y productos sanitarios. La estabilidad de la solución una vez activada es 14 días. Se recomienda verificar la tasa de ácido peracético con las tiras reactivas.",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 101,
+   "name": "TOALLITAS DESINFECTANTES CON CLORHEXIDINA (C/100UNID)",
+   "img": "https://producsan.es/cms/img/p/1/7/0/170-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/7/0/170-home_default.jpg",
+   "desc": "Toallita desinfectante de Clorhexidina alcohólica Sani-Cloth® CHG 2% Toallitas para la desinfección de dispositivos médicos",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 102,
+   "name": "TOALLITAS DESINFECTANTES CON ALCOHOL (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/7/5/175-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/7/5/175-home_default.jpg",
+   "desc": "Toallitas antisépticas de alcohol isopropílico 70% Alcohol Prep pads Indicadas para la desinfección de la piel antes de cualquier procedimiento invasivo.El alcohol isopropílico desnaturaliza las proteínas, disuelve los lípidos destruyendo eficazmente muchos tipos de células bacterianas y virales",
+   "cats": [
+    21
+   ]
+  },
+  {
+   "id": 104,
+   "name": "TENSIOMETRO RIESTER MINIMUS III",
+   "img": "https://producsan.es/cms/img/p/1/7/7/177-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/7/7/177-home_default.jpg",
+   "desc": "Tensiómetro aneroide de reloj con inflado manual. La mejor tecnología para medición monomanual de la tensión arterial! El minimus®III con doble tubo está diseñado para lograr la máxima precisión y duración de la vida útil: dispone de una carcasa metálica cromada, uniones atornilladas del tubo cromadas y base de válvula metálica.",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 105,
+   "name": "LARINGOSCOPIO RIESTER REF.7040 con 3 Palas Curvadas nº 2-3-4 CON ESTUCHE",
+   "img": "https://producsan.es/cms/img/p/1/7/8/178-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/7/8/178-home_default.jpg",
+   "desc": "Riester ofrece una gran selección de conjuntos de laringoscopios a precios atractivos. Los conjuntos están equipados con diferentes mangos y pueden encargarse en combinación con el cargador ri-charger®. Fuente de luz de vacío de 2,7 V para una buena iluminación del campo de exploración Los bordes redondeados de la pala Macintosh reducen el riesgo de...",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 106,
+   "name": "TENSIOMETRO AUTOMATICO OMRON M3",
+   "img": "https://producsan.es/cms/img/p/1/7/9/179-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/7/9/179-home_default.jpg",
+   "desc": "El tensiómetro Omron M3 es un monitor de presión arterial compacto y totalmente automático cuyo fucionamiento se basa en el principio oscilométrico. El tensiómetro Omron M3 mide la presión arterial y el pulso de manera sencilla y rápida. Gracias a la tecnológica Intellisense, permite un inflado ómodo y controlado. Medidas manguito: Perímetro del brazo de...",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 107,
+   "name": "APOYABRAZOS DE PIE PARA EXTRACCION DE SANGRE",
+   "img": "https://producsan.es/cms/img/p/1/8/2/182-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/8/2/182-home_default.jpg",
+   "desc": "Apoyabrazos de pie para extracción de sangre, de poliuretano inyectado, con base de aluminio de cinco patas y regulable en altura.",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 108,
+   "name": "FUNDA DE MANGO LÁMPARA DE QUIRÓFANO ESTERIL INDIVIDUAL (C/100 Unid)",
+   "img": "https://producsan.es/cms/img/p/1/8/4/184-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/8/4/184-home_default.jpg",
+   "desc": "Funda para mango de lámpara de quirófano estéril. Evita la contaminación en el campo operatorio, mientras el personal estéril manipula la lámpara. Fácil de colocar debido a su diseño que se puede utilizar para una amplia gama de modelos de lámpara mediante un adaptador universal",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 109,
+   "name": "RECAMBIO TELA BRAZALETE ADULTO 2 SALIDAS",
+   "img": "https://producsan.es/cms/img/p/1/8/5/185-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/8/5/185-home_default.jpg",
+   "desc": "Brazalete de tela, con o sin arandela metálica, según modelo. Con cabezal de fonendo (sólo en los modelos que lo incluye). Cámara de goma insertada en el interior del manguito, con 1 o 2 tubos de salida. Cierre velcro o con ganchos según modelo.",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 111,
+   "name": "OLIVA RIESTER DUPLEX BLANDA GRIS (B/2 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/8/7/187-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/8/7/187-home_default.jpg",
+   "desc": "Par olivas blandas, repuesto para fonendo",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 112,
+   "name": "MANGUITO DE TENSIOMETRO PARA OBESOS OMRON",
+   "img": "https://producsan.es/cms/img/p/1/8/9/189-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/8/9/189-home_default.jpg",
+   "desc": "El manguito de brazo para obesos de Omron con perímetro de brazo de 32 a 42 centímetros, está destinado a personas que necesiten medirse la presión arterial. Compatible con todos los modelos de OMRON",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 113,
+   "name": "ESPARADRAPO DE PAPEL CPK 9,10m x 2,5cm (C/ 12 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/9/0/190-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/9/0/190-home_default.jpg",
+   "desc": "Tejido no tejido blanco de poliéster y celulosa recubierto de adhesivo termofusible. Fácilmente rasgable. Adhesivo biocompatible de elevada fuerza adhesiva, conformable y permeable al aire y a la humedad. Libre de látex. Indicado para la fijación de todo tipo de apósitos y vendajes, catéteres, tubos, sondas y cánulas.",
+   "cats": [
+    34
+   ]
+  },
+  {
+   "id": 114,
+   "name": "ESPARADRAPO DE PLASTICO CPK 9,10m x 2,50cm (C/12 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/9/1/191-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/9/1/191-home_default.jpg",
+   "desc": "Soporte de polietileno recubierto de adhesivo termofusible. Transparente, microperforado y fácilmente rasgable longitudinal y transversalmente. Adhesivo biocompatible de elevada fuerza adhesiva. Conformable, permeable al aire y a la humedad. Libre de Látex. Indicado para la fijación de todo tipo de apósitos y vendajes, catéteres, tubos, sondas y cánulas.",
+   "cats": [
+    34
+   ]
+  },
+  {
+   "id": 115,
+   "name": "ESPARADRAPO DE PAPEL LEUKOPOR 9,10m x 2,5cm (C/ 12 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/9/2/192-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/9/2/192-home_default.jpg",
+   "desc": "Esparadrapo hipoalergénico de alta tolerancia cutánea de tejido sin tejer, suave y flexible que se adapta con facilidad al cuerpo. Leukopor Esparadrapo 2,5 x 5 Metros Leukopor Esparadrapo es de color blanco, suave y muy flexible que se adapta perfectamente a cualquier zona del cuerpo.",
+   "cats": [
+    34
+   ]
+  },
+  {
+   "id": 116,
+   "name": "ESPARADRAPO TELA \"LEUKOPLAST S\" 9,2m x 2,5cm (C/12 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/9/4/194-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/9/4/194-home_default.jpg",
+   "desc": "Leukoplast S Esparadrapo de tela, tejido poroso color blanco.CARACTERÍSTICAS: Limpio: repele la suciedad y la humedad. Agradable a la piel. Transpirable, evita maceraciones.",
+   "cats": [
+    34
+   ]
+  },
+  {
+   "id": 117,
+   "name": "DEPRESOR DE MADERA (C/ 100 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/9/5/195-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/9/5/195-home_default.jpg",
+   "desc": "DEPRESORES MADERA CAJA 100 UD. no estériles para deprimir la base de la lengua y permitir el examen laríngeo.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 118,
+   "name": "ESPARADRAPO DE PAPEL MICROPORE 9.10m x 2.5cm (C/12 UNID)",
+   "img": "https://producsan.es/cms/img/p/1/9/6/196-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/9/6/196-home_default.jpg",
+   "desc": "MICROPORE: es el primer esparadrapo hipoalergï¿½nico de la historia, inventado por 3M hace 30 años. Este esparadrapo de papel es el mï¿½s usado del mundo, goza de gran prestigio y es muy apreciado por su suavidad.",
+   "cats": [
+    34
+   ]
+  },
+  {
+   "id": 119,
+   "name": "ESPARADRAPO PAPEL MICROPORE COLOR CARNE 9,10m x 2,50cm (C/ 12 Unid)",
+   "img": "https://producsan.es/cms/img/p/1/9/8/198-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/1/9/8/198-home_default.jpg",
+   "desc": "Tela Micropore Color Piel de 2.5 cm x 9.1 m cod.2536 Micropore Piel 3M NEXCARE Micropore es una Cinta Quirúrgica de Papel, color piel , ideal para fijación de apósitos que requieran cambios frecuentes.",
+   "cats": [
+    34
+   ]
+  },
+  {
+   "id": 120,
+   "name": "ESPARADRAPO PLASTICO TRANSPORE 9.10m x 2.50cm (C/12 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/0/2/202-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/0/2/202-home_default.jpg",
+   "desc": "ESPARADRAPO PLASTICO TRANSPORE 9,14 M X 2,5 3M C/12 UDS. de plástico perforado transparente, para fijación de apósitos, tubuladuras de terapia intravenosa y todo tipo de materiales sobre todo tipo de pieles, incluso sobre zonas móviles como pequeñas articulaciones y párpados.",
+   "cats": [
+    34
+   ]
+  },
+  {
+   "id": 121,
+   "name": "ESCOBILLON ALGODÓN TORUNDA HISOPO NO ESTÉRIL 15 cm (B/ 100 Unid)",
+   "img": "https://producsan.es/cms/img/p/2/0/3/203-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/0/3/203-home_default.jpg",
+   "desc": "Escobillón no estéril, para recogida de muestra seca.Escobillón NO estéril para recogida de muestras y/o limpieza de heridas. Medidas: 150 x 2,5 mm",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 122,
+   "name": "ESPÉCULO VAGINAL TORNILLO / ROSCA (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/0/8/208-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/0/8/208-home_default.jpg",
+   "desc": "Espéculos vaginales desechables fabricados en material plástico transparente, con elevada resistencia a la ruptura. Fácil manejo con sistema de bloqueo de apertura mediante un cuarto de giro de tornillo que evita cualquier ruido a la hora de su manipulación. Acabado en superficies lisas y aristas redondeadas para un uso ergonómico. Equipos exentos de...",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 124,
+   "name": "FUNDA ECOGRAFO (C/500 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/1/1/211-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/1/1/211-home_default.jpg",
+   "desc": "Para ecografías vaginales. Totalidad de transductores. Más largas y 33% más de masa que la mayoría de las fundas existentes. - Látex de alta calidad. - No crean zonas oscuras. - No distorsionan las imágenes. - Garantía no rotura. - Sin lubricantes ni aditivos que ataquen al transductor. - Encaje perfecto al transductor.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 125,
+   "name": "GEL ULTRASONIDOS TRANSPARENTE 260 gr",
+   "img": "https://producsan.es/cms/img/p/2/1/5/215-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/1/5/215-home_default.jpg",
+   "desc": "Gel conductor de ultrasonidos neutro. Útil también para cualquier aparato que necesite un gel conductor. Se extiende uniformemente. Color transparente.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 126,
+   "name": "GEL ULTRASONIDOS AZUL 5000GR",
+   "img": "https://producsan.es/cms/img/p/2/1/8/218-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/1/8/218-home_default.jpg",
+   "desc": "Gel conductor de ultrasonidos neutro. Útil también para cualquier aparato que necesite un gel conductor. Se extiende uniformemente. Color azul.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 127,
+   "name": "ESPATULAS AYRE MADERA NO ESTERIL (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/2/0/220-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/2/0/220-home_default.jpg",
+   "desc": "Espátula Ayre de madera, especiales para la recogida de muestras a nivel de cuello de útero. De un solo uso. Fabricadas en madera de primera calidad.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 128,
+   "name": "MAQUINILLA RASURAR WILKINSON ENVASADA INDIVIDUAL",
+   "img": "https://producsan.es/cms/img/p/2/2/1/221-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/2/1/221-home_default.jpg",
+   "desc": "Maquinilla Wilkinson de 1 sola hoja, envasada individualmente. No estéril. Estas rasuradoras desechables de 10 cm de longitud, están fabricadas en plástico inyectado de color verde y una cuchilla de acero de alta calidad de 35 mm. Lleva incorporado un peine guía y está protegida con una tapa de plï¿½stico protector. Es un producto de un solo uso NO...",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 129,
+   "name": "MAQUINILLA RASURAR WILKINSON 1 HOJA ESTERIL (B/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/2/4/224-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/2/4/224-home_default.jpg",
+   "desc": "Rasuradora Wilkinson de una sola cuchilla con peine, envasada individualmente.Estas rasuradoras desechables de 10 cm de longitud, están fabricadas en plástico inyectado de color verde y una cuchilla de acero de alta calidad de 35 mm. Lleva incorporado un peine guía y está protegida con una tapa de plástico protector. Es un producto de un solo uso estéril...",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 130,
+   "name": "PARAFINA NEUTRA 1Kg",
+   "img": "https://producsan.es/cms/img/p/2/2/9/229-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/2/9/229-home_default.jpg",
+   "desc": "Bloque de parafina de 1Kg para calentador de parafina. Uso en fisioterapia: artritis, artrosis, esguinces,..etc. También se usa en tratamientos de estética para la piel.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 131,
+   "name": "CANULA COURNIER PIPETA CON ASPIRACION (C/25 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/3/0/230-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/3/0/230-home_default.jpg",
+   "desc": "Sistema para la extracción de muestras de tejido endometrial y aspiración.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 132,
+   "name": "FIJADOR EN SPRAY CYTOFIX 200ml",
+   "img": "https://producsan.es/cms/img/p/2/3/1/231-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/3/1/231-home_default.jpg",
+   "desc": "Fijador hidrosoluble en spray para frotis y citologías.Presentación en envase de 200 ml.Fácil uso y rápido de aplicar.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 133,
+   "name": "FIJADOR CITOLOGICO LABOFIX 200ml",
+   "img": "https://producsan.es/cms/img/p/2/3/2/232-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/3/2/232-home_default.jpg",
+   "desc": "Aerosol para la fijación de muestras para patología. Características:Fijador hidrosoluble en spray para frotis y citologías.Fija y preserva las muestras con gran rapidez y seguridad sin alterar sus propiedades biológicas.Envase contenedor de aluminio lacado con tapón difusor ergonómico.Fórmula fijadora con base de etanol.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 134,
+   "name": "CEPILLO CITOLOGICO (B/50 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/3/3/233-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/3/3/233-home_default.jpg",
+   "desc": "Cepillo para toma de muestras endocervicales, permitiendo recoger las muestras sin romper las células. Atraumático. Muy flexible. Soporte en ABS azul. La textura de la cabeza es muy suave para no dañar a la paciente. Longitud total: 19,5 cm. NO estéril.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 135,
+   "name": "CEPILLO CITOLOGICO (B/25 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/3/6/236-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/3/6/236-home_default.jpg",
+   "desc": "Cepillo para toma de muestras endocervicales, punta redondeada. Un solo uso Cepillo citológico para la toma de muestra del cérvix. Atraumático. Flexible. Bolsa de 25 cepillos citológicos.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 136,
+   "name": "CEPILLO CITOLOGICO ESTERIL (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/3/8/238-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/3/8/238-home_default.jpg",
+   "desc": "Cepillo citológico para recogida de muestras de endocervix Bastón cilíndrico de plástico y escobillón de nylon enrollado. Se presenta en caja de 100 cepillos citológicos estériles.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 137,
+   "name": "DEPRESOR PLASTICO NO ESTERIL BORDES PULIDOS 15cm x 2cm (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/3/9/239-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/3/9/239-home_default.jpg",
+   "desc": "Depresor lingual de plástico, no estéril para examen de boca y garganta. Fabricado en plástico con cantos redondeados y pulidos.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 138,
+   "name": "DEPRESOR PLASTICO ESTERIL BORDES PULIDOS 15cm x 2cm (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/4/1/241-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/4/1/241-home_default.jpg",
+   "desc": "Depresor lingual de plástico envasado individual, estéril. Bordes suaves y redondeados. Sin olor ni sabor y muy resistentes. Son ideales para la aplicación de pomadas.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 139,
+   "name": "BOLSA GEL FRIO /CALOR Reutilizable 14 x 24cm",
+   "img": "https://producsan.es/cms/img/p/2/4/2/242-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/4/2/242-home_default.jpg",
+   "desc": "BOLSA FRIO-CALOR REUTILIZABLE es un gel viscoso, azul e inodoro, cuya característica más importante es su gran conductividad.Están diseñadas para permitir tanto el tratamiento con frío (congelador) o calor (microondas).",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 140,
+   "name": "FÉRULAS ALUMINIO 2.5 x 50cm",
+   "img": "https://producsan.es/cms/img/p/2/4/3/243-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/4/3/243-home_default.jpg",
+   "desc": "FERULA ALUMINIO RECTA 50X2,5 PRIM 1 UD Indicada para la inmovilización de las articulaciones interfalángicas. Férula de aluminio almohadillada para la inmovilización de dedos. Recta, de 2.5 cms de ancho, y 50 cms de largo, recortable según necesidades.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 141,
+   "name": "PULSIOXIMETRO MANO MD300M",
+   "img": "https://producsan.es/cms/img/p/2/4/6/246-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/4/6/246-home_default.jpg",
+   "desc": "Pulsioxímetro Portátil – Pantalla TFT Color. Para uso en la atención médica y clínica de pacientes adultos, niños y neonatos. Compacto, sólo 195 gramos sin pilas. Para uso en la atención médica y clínica de pacientes adultos, pediátricos e infantiles Compacto, sólo 195 gramos sin baterías",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 142,
+   "name": "SENSOR / SONDA CLIP PEDIATRICO MD300M",
+   "img": "https://producsan.es/cms/img/p/2/4/7/247-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/4/7/247-home_default.jpg",
+   "desc": "Sensor SpO2 reutilizable para uso en niños o pacientes de entre 10 y 40 kilogramos de peso. Compatibles con equipos de pulsioximetría BCI",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 143,
+   "name": "GEL LUBRICANTE HIDROSOLUBLE SULKY TUBO 100GR",
+   "img": "https://producsan.es/cms/img/p/2/4/8/248-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/4/8/248-home_default.jpg",
+   "desc": "En necesidades de lubricación general. Transparente. Poco graso. Hidrosoluble. No irritante. Inofensivo para la piel. No daña la goma, aparatos de metal, instrumental ni tejidos naturales o sintéticos.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 144,
+   "name": "FIELTRO AFELPADO ROLLO 1,80m x 22,5cm",
+   "img": "https://producsan.es/cms/img/p/2/4/9/249-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/4/9/249-home_default.jpg",
+   "desc": "Fieltro especial, de algodón con adhesivo hipoalergénico La mayor comodidad y suavidad Espesor de 1,5mm. Color Rosa Adhesivo hipoalergénico. Rollo de 1,80 x 0,25 m.",
+   "cats": [
+    41,
+    6
+   ]
+  },
+  {
+   "id": 145,
+   "name": "ELECTRODOS ECG/HOLTER RED DOT 3M (B/50 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/5/1/251-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/5/1/251-home_default.jpg",
+   "desc": "Electrodo Red Dot para Electrocardiógrafo 3M Adulto Bolsa con 50 piezasDiámetro: 6cm.El electrodo dispone de un gel sólido con sensor de plata / cloruro de plata que proporciona un óptimo contacto con la piel y una excelente calidad de trazado.",
+   "cats": [
+    41
+   ]
+  },
+  {
+   "id": 146,
+   "name": "GASA ESTERIL 5 APOSITOS 20x30 PLEG 8x8cm 13 hilos 8 Capas (C/350 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/5/2/252-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/5/2/252-home_default.jpg",
+   "desc": "Gasas estériles en prácticos sobres de 5 unidades para uso en todo tipo de curas. Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 147,
+   "name": "GASA ESTERIL 1 APOSITO 60x40 PLEG 10x20cm 13 hilos 12 Capas (C/350 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/5/3/253-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/5/3/253-home_default.jpg",
+   "desc": "Gasas estériles en prácticos sobres de 5 unidades para uso en todo tipo de curas. Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 148,
+   "name": "GASA ESTERIL 5 APOSITOS 20X20 PLEG 9x10cm 4 Capas (C/300 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/5/4/254-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/5/4/254-home_default.jpg",
+   "desc": "Gasas estériles en prácticos sobres de 5 unidades para uso en todo tipo de curas. Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 149,
+   "name": "GASA ESTERIL 5 APOSITOS 20x40 PLEG 8x10cm 8 Capas (C/350 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/5/5/255-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/5/5/255-home_default.jpg",
+   "desc": "Gasas estériles en prácticos sobres de 5 unidades para uso en todo tipo de curas. Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 150,
+   "name": "GASA ESTERIL 5 APOSITOS 8x6cm 20 hilos 8 Capas (C/10 SOBRES)",
+   "img": "https://producsan.es/cms/img/p/2/5/7/257-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/5/7/257-home_default.jpg",
+   "desc": "Gasas estériles en prácticos sobres de 5 unidades para uso en todo tipo de curas. Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 151,
+   "name": "GASA ESTERIL 5 APOSITOS 8x6cm 20 hilos 8 Capas (C/20 SOBRES)",
+   "img": "https://producsan.es/cms/img/p/2/5/9/259-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/5/9/259-home_default.jpg",
+   "desc": "Gasas estériles en prácticos sobres de 5 unidades para uso en todo tipo de curas. Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 152,
+   "name": "GASA ESTERIL 2 APOSITOS 60x40 PLEG 10X20cm 13 hilos 12 Capas (C/275 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/6/0/260-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/6/0/260-home_default.jpg",
+   "desc": "Gasas estériles en prácticos sobres de 5 unidades para uso en todo tipo de curas. Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 153,
+   "name": "GASA ESTERIL CONTROL Rx PLEG 20X40cm (C/150 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/6/2/262-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/6/2/262-home_default.jpg",
+   "desc": "Compresa cosida de gasa 100% algodón, bordes ocultos y CON CONTRASTE. Presentación sobres 5 unidades Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 154,
+   "name": "GASA NO ESTERIL 20x20 PLEG 9x10cm 13 Hilos 4 Capas (C/2.500 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/6/4/264-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/6/4/264-home_default.jpg",
+   "desc": "Gasas NO estériles para uso en todo tipo de curas. Alta absorción: alta capacidad de absorción, gracias al tamaño de la gasa y a su composición de algodón hidrófilo.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 155,
+   "name": "GASA ESTERIL 5 APOSITOS 20x40 PLEG 8x10cm MALLA A 8 Capas (C/230 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/6/5/265-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/6/5/265-home_default.jpg",
+   "desc": "Apósitos rectilíneos de algodón hidrófilo purificado. Están hechos de una sola tela que se pliega sobre si misma en dobleces dependiendo de la superficie total y del número de capas y tamaño final, sin remallar y sin coser. Gasa estéril 100% algodón.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 156,
+   "name": "GASA ESTERIL 5 APOSITOS 20x20 PLEG 10x10cm 15 hilos (C/400 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/6/7/267-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/6/7/267-home_default.jpg",
+   "desc": "Apósitos rectilíneos de algodón hidrófilo purificado. Están hechos de una sola tela que se pliega sobre si misma en dobleces dependiendo de la superficie total y del número de capas y tamaño final, sin remallar y sin coser. Gasa estéril 100% algodón.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 157,
+   "name": "GASA ESTERIL 5 APOSITOS 20X40 PLEG 10x10cm 15 hilos 8 Capas (C/250 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/6/8/268-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/6/8/268-home_default.jpg",
+   "desc": "Apósitos rectilíneos de algodón hidrófilo purificado. Están hechos de una sola tela que se pliega sobre si misma en dobleces dependiendo de la superficie total y del número de capas y tamaño final, sin remallar y sin coser. Gasa estéril 100% algodón.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 158,
+   "name": "GASA NO ESTERIL 20x20 PLEG 9x10 17 Hilos 4 Capas (C/2.500 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/7/0/270-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/7/0/270-home_default.jpg",
+   "desc": "Apósitos rectilíneos de algodón hidrófilo purificado. Están hechos de una sola tela que se pliega sobre si misma en dobleces dependiendo de la superficie total y del número de capas y tamaño final, sin remallar y sin coser. Gasa estéril 100% algodón.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 159,
+   "name": "GASA NO ESTERIL 50x40 PLEG 10x10cm MALLA A. (C/500 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/7/1/271-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/7/1/271-home_default.jpg",
+   "desc": "Apósitos rectilíneos de algodón hidrófilo purificado. Están hechos de una sola tela que se pliega sobre si misma en dobleces dependiendo de la superficie total y del número de capas y tamaño final, sin remallar y sin coser. Gasa estéril 100% algodón.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 160,
+   "name": "GASA NO ESTERIL 20X20 PLEG 10X10cm MALLA A (C/2500 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/7/2/272-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/7/2/272-home_default.jpg",
+   "desc": "Apósitos rectilíneos de algodón hidrófilo purificado. Están hechos de una sola tela que se pliega sobre si misma en dobleces dependiendo de la superficie total y del número de capas y tamaño final, sin remallar y sin coser. Gasa estéril 100% algodón.",
+   "cats": [
+    10
+   ]
+  },
+  {
+   "id": 163,
+   "name": "HOJAS BISTURÍ SWANN-MORTON Nº 10 (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/7/9/279-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/7/9/279-home_default.jpg",
+   "desc": "Hojas de acero de carbono estériles. Presentadas en sobres de aluminio. Estériles. Material: acero al carbono Longitud total 40.43 mm Ancho 7.30 mm Espesor 0.36 mm Borde de corte 25.90 mm",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 164,
+   "name": "HOJAS BISTURÍ SWANN-MORTON Nº 11 (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/8/1/281-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/8/1/281-home_default.jpg",
+   "desc": "Hojas de acero de carbono estériles. Presentadas en sobres de aluminio. Estériles. Material: acero al carbono Longitud total 40.43 mm Ancho 7.30 mm Espesor 0.36 mm Borde de corte 25.90 mm",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 165,
+   "name": "HOJAS BISTURÍ SWANN-MORTON Nº 15 (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/8/4/284-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/8/4/284-home_default.jpg",
+   "desc": "Hojas de acero de carbono estériles. Presentadas en sobres de aluminio. Estériles. Material: acero al carbono Longitud total 40.43 mm Ancho 7.30 mm Espesor 0.36 mm Borde de corte 25.90 mm",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 166,
+   "name": "ESPECULO VAGINAL COLLIN M.WAITCH PEQUEÑO",
+   "img": "https://producsan.es/cms/img/p/2/9/3/293-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/3/293-home_default.jpg",
+   "desc": "Material de acero inoxidable, reutilizable, para curas. Especulo Vaginal Collin de acero japonés",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 167,
+   "name": "ESPECULO VAGINAL COLLIN M.WAITCH MEDIANO",
+   "img": "https://producsan.es/cms/img/p/2/9/2/292-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/2/292-home_default.jpg",
+   "desc": "Material de acero inoxidable, reutilizable, para curas. Especulo Vaginal Collin de acero japonés",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 168,
+   "name": "ESPECULO VAGINAL CUSCO M.WAITCH PEQUEÑO",
+   "img": "https://producsan.es/cms/img/p/2/9/1/291-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/1/291-home_default.jpg",
+   "desc": "Material de acero inoxidable, reutilizable, para curas. Especulo Vaginal Collin de acero japonés",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 169,
+   "name": "ESPECULO VAGINAL CUSCO M.WAITCH MEDIANO",
+   "img": "https://producsan.es/cms/img/p/2/9/0/290-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/0/290-home_default.jpg",
+   "desc": "Material de acero inoxidable, reutilizable, para curas. Especulo Vaginal Collin de acero japonés",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 170,
+   "name": "PINZA DISECCION S/ DIENTES 14cm",
+   "img": "https://producsan.es/cms/img/p/2/9/4/294-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/4/294-home_default.jpg",
+   "desc": "Material de acero inoxidable, reutilizable, para curas. Pinza recta y punta fina de acero japonés.",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 171,
+   "name": "TIJERA VENDAJE LISTER 18cm",
+   "img": "https://producsan.es/cms/img/p/2/9/5/295-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/5/295-home_default.jpg",
+   "desc": "Tijeras para vendas de 14cm, para botiquín o enfermeras Gran calidad Esterilizables y autoclavables Fabricante registrado ISO 9001- 2000",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 172,
+   "name": "PORTA-AGUJAS \"HEGAR-MAYO\" 15cm",
+   "img": "https://producsan.es/cms/img/p/2/9/6/296-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/6/296-home_default.jpg",
+   "desc": "Pinza porta agujas especialmente indicada para suturar. Permite posicionar la aguja de sutura para realizar las técnicas de cosido de heridas.",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 173,
+   "name": "CURETA DERMATOLOGICA Nº 4 (C/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/9/7/297-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/7/297-home_default.jpg",
+   "desc": "CURETA DERMATOLOGICA STIEFFEL 4MM C/10 UDS. instrumento quirúrgico estéril y de un solo uso que consiste en un anillo afilado y cortante, provisto de un mango plástico.",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 174,
+   "name": "CURETA DERMATOLOGICA Nº7 (C/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/2/9/9/299-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/2/9/9/299-home_default.jpg",
+   "desc": "CURETA DERMATOLOGICA STIEFEL 4MM C/10 UDS. instrumento quirúrgico estéril y de un solo uso que consiste en un anillo afilado y cortante, provisto de un mango plástico.",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 175,
+   "name": "PINZA DISECCIÓN \"ADSON\" CON DIENTES 12 cm",
+   "img": "https://producsan.es/cms/img/p/3/0/9/309-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/0/9/309-home_default.jpg",
+   "desc": "Pinzas de disección con dientes en la punta habitualmente utilizadas para asir gasas, sujetar, atraer o comprimir tejidos u otro tipo de instrumental, también pueden proporcionar un firme sostén en los tejidos duros y en la piel.",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 176,
+   "name": "PINZA DISECCIÓN \"ADSON\" SIN DIENTES 12 cm",
+   "img": "https://producsan.es/cms/img/p/3/1/0/310-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/1/0/310-home_default.jpg",
+   "desc": "Pinzas de disección sin dientes en la punta habitualmente utilizadas para asir gasas, sujetar, atraer o comprimir tejidos u otro tipo de instrumental, también pueden proporcionar un firme sostén en los tejidos duros y en la piel.",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 177,
+   "name": "TIJERA MAYO CURVA 14 cm",
+   "img": "https://producsan.es/cms/img/p/3/1/4/314-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/1/4/314-home_default.jpg",
+   "desc": "Estas tijeras curvas son fabricadas en acero inoxidable, tienen las puntas en forma curva, se pueden utilizar para tejidos duros. Tamaño: 14cm",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 178,
+   "name": "TIJERA DE PUNTOS LITTAUER 14 cm",
+   "img": "https://producsan.es/cms/img/p/3/1/6/316-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/1/6/316-home_default.jpg",
+   "desc": "Material de acero inoxidable, reutilizable, para curas. Tijera Puntos Littauer de acero japonés. Tijera especialmente para retirar los puntos de sutura. Su forma especial permite cortar los puntos de sutura con toda facilidad",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 179,
+   "name": "TIJERA VENDAJE YESO LISTER 14cm",
+   "img": "https://producsan.es/cms/img/p/3/1/7/317-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/1/7/317-home_default.jpg",
+   "desc": "Tijeras lister de 14 cm de largo, punta pico de pato en acero inoxidable. Ideales para cortar vendajes blandos o duros.",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 180,
+   "name": "PINZA HEMOSTATICA MOSQUITO SIN DIENTES RECTA 13cm",
+   "img": "https://producsan.es/cms/img/p/3/1/9/319-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/1/9/319-home_default.jpg",
+   "desc": "Pinza hemostática Crile de 13cm, recta sin dientes en su borde interno. Fabricada en acero de alta calidad. Esterilizable.",
+   "cats": [
+    38
+   ]
+  },
+  {
+   "id": 181,
+   "name": "PUNCH BIOPSIA ESTERIL 2mm (C/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/2/0/320-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/2/0/320-home_default.jpg",
+   "desc": "Generalmente se realiza una biopsia de punzón para tomar una muestra de piel para ayudar en el diagnóstico de una erupción cutánea. Algunas veces, las lesiones cutáneas como los topos atípicos se prueban también con una biopsia de punzón.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 182,
+   "name": "PUNCH BIOPSIA ESTERIL 3mm (C/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/2/1/321-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/2/1/321-home_default.jpg",
+   "desc": "Generalmente se realiza una biopsia de punzón para tomar una muestra de piel para ayudar en el diagnóstico de una erupción cutánea. Algunas veces, las lesiones cutáneas como los topos atípicos se prueban también con una biopsia de punzón.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 183,
+   "name": "PUNCH BIOPSIA ESTERIL 4mm (C/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/2/4/324-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/2/4/324-home_default.jpg",
+   "desc": "Generalmente se realiza una biopsia de punzón para tomar una muestra de piel para ayudar en el diagnóstico de una erupción cutánea. Algunas veces, las lesiones cutáneas como los topos atípicos se prueban también con una biopsia de punzón.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 184,
+   "name": "PUNCH BIOPSIA ESTERIL 5mm (C/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/2/6/326-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/2/6/326-home_default.jpg",
+   "desc": "Generalmente se realiza una biopsia de punzón para tomar una muestra de piel para ayudar en el diagnóstico de una erupción cutánea. Algunas veces, las lesiones cutáneas como los topos atípicos se prueban también con una biopsia de punzón.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 185,
+   "name": "PUNCH BIOPSIA ESTERIL 6mm (C/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/2/8/328-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/2/8/328-home_default.jpg",
+   "desc": "Generalmente se realiza una biopsia de punzón para tomar una muestra de piel para ayudar en el diagnóstico de una erupción cutánea. Algunas veces, las lesiones cutáneas como los topos atípicos se prueban también con una biopsia de punzón.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 186,
+   "name": "PUNCH BIOPSIA ESTERIL 2mm KAI MEDICAL (C/20 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/3/0/330-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/3/0/330-home_default.jpg",
+   "desc": "Punch de biopsia desechable estéril Estos sacadores estériles desechables de la biopsia son ampliamente utilizados en clínicas dermatológicas y de cirugía de menor para obtener muestras histológicas para la diagnosis exacta de las condiciones de piel y suprimir las pequeñas lesiones.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 187,
+   "name": "PUNCH BIOPSIA ESTERIL 3mm KAI MEDICAL (C/20 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/3/2/332-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/3/2/332-home_default.jpg",
+   "desc": "Punch de biopsia desechable estéril Estos sacadores estériles desechables de la biopsia son ampliamente utilizados en clínicas dermatológicas y de cirugía de menor para obtener muestras histológicas para la diagnosis exacta de las condiciones de piel y suprimir las pequeñas lesiones.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 188,
+   "name": "PUNCH BIOPSIA ESTERIL 3,5mm KAI MEDICAL (C/20 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/3/4/334-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/3/4/334-home_default.jpg",
+   "desc": "Punch de biopsia desechable estéril Estos sacadores estériles desechables de la biopsia son ampliamente utilizados en clínicas dermatológicas y de cirugía de menor para obtener muestras histológicas para la diagnosis exacta de las condiciones de piel y suprimir las pequeñas lesiones.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 189,
+   "name": "PUNCH BIOPSIA ESTERIL 4mm KAI MEDICAL (C/20 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/3/6/336-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/3/6/336-home_default.jpg",
+   "desc": "Punch de biopsia desechable estéril Estos sacadores estériles desechables de la biopsia son ampliamente utilizados en clínicas dermatológicas y de cirugía de menor para obtener muestras histológicas para la diagnosis exacta de las condiciones de piel y suprimir las pequeñas lesiones.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 190,
+   "name": "CUBRE-OBJETOS 24x24cm (C/ 200 Unid)",
+   "img": "https://producsan.es/cms/img/p/3/3/9/339-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/3/9/339-home_default.jpg",
+   "desc": "Cubreobjetos, 24 x 24. Marca Deltalab, modelo D102450. Uso específico: protección de la muestra y protección del objetivo del microscopio. Vidrio claro, limpio y desengrasado. Presentados en estuches de cien unidades según modelo, dentro de los cuales se incluye una bolsita de sal silícica. Cada cajita se suministra envasada al vacío en tropical pack...",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 191,
+   "name": "BOTE PARA RECOGIDA MUESTRA 125ml (UNID)",
+   "img": "https://producsan.es/cms/img/p/3/4/0/340-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/4/0/340-home_default.jpg",
+   "desc": "BOTES PARA RECOGIDA DE MUESTRAS Material del tapón: polietileno. Cierre hermético. Frasco en polipropileno de alta transparencia. No estéril. Frasco graduado hasta 100 ml, con banda mate de molde para poder escribir. Color estándar del tapón: rojo.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 192,
+   "name": "PORTA-OBJETOS CANTOS PULIDOS Y BANDA MATE 26x76cm (C/ 50 Unid)",
+   "img": "https://producsan.es/cms/img/p/3/4/2/342-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/4/2/342-home_default.jpg",
+   "desc": "Medida estándar: 26 x 76 mm (± 0,2). Vidrio claro, pre-lavado, de 1,1 mm (± 0,1) de espesor. Ideal para análisis de rutina. Presentados en cajitas de 50 unidades.",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 193,
+   "name": "TUBOS VACUTAINER COAGULACION 3.2% V.PLUS 4,5ml VACIO 2.7ml 13x75mm (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/4/4/344-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/4/4/344-home_default.jpg",
+   "desc": "TUBO DE PET (PLASTICO) - 4.5mlVACIO - 2.7mlTAMAÑO TUBO: 13x75mmCITRATO SODICO (0.109 M, 3.2%)",
+   "cats": [
+    45
+   ]
+  },
+  {
+   "id": 194,
+   "name": "CAMILLA RECONOCIMIENTO 2 CP ESTRUCTURA ACERO CROMADO",
+   "img": "https://producsan.es/cms/img/p/3/4/7/347-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/4/7/347-home_default.jpg",
+   "desc": "-Camilla de reconocimiento.-Estructura soldada, dos cuerpos fabricados en acero.-Tapizado de gran densidad.-Cabezal abatible.-Nivelador para regularlo según las necesidades. -Medidas: 180x60x70cm",
+   "cats": [
+    5
+   ]
+  },
+  {
+   "id": 195,
+   "name": "BANQUETA DE 1 PELDAÑO SUELO DE GOMA",
+   "img": "https://producsan.es/cms/img/p/3/4/9/349-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/4/9/349-home_default.jpg",
+   "desc": "Banquillo para acceso de los pacientes, con 1 tramo, de acero cromado y superficie de apoyo antideslizante. Medidas: 34x24x21cm",
+   "cats": [
+    5
+   ]
+  },
+  {
+   "id": 196,
+   "name": "LAMPARA DE RECONOCIMIENTO DE TECHO A LED SERIE L21-25",
+   "img": "https://producsan.es/cms/img/p/3/5/2/352-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/5/2/352-home_default.jpg",
+   "desc": "LAMPARA DE RECONOCIMIENTO DE TECHO A LED modelo L21-25T Nueva generación de lámparas de examen con LED de alto rendimiento, que garantizan una excelente iluminación del campo. Destacando su cantidad y calidad de luz, luz fría sin infrarrojos, con una temperatura de color apropiada, larga duración de vida del LED y menor consumo eléctrico.",
+   "cats": [
+    42,
+    5
+   ]
+  },
+  {
+   "id": 197,
+   "name": "LAMPARA FLH-2 LED RODABLE",
+   "img": "https://producsan.es/cms/img/p/3/5/4/354-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/5/4/354-home_default.jpg",
+   "desc": "La lámpara rodable FLH-2 está equipada con la moderna tecnología de diodos LED. Proporciona una luz fría y uniforme, con una intensidad de 30.000 lux a 40 cm y una temperatura de color de 6.000 ºK.",
+   "cats": [
+    42,
+    5
+   ]
+  },
+  {
+   "id": 198,
+   "name": "LAMPARA LED PARA CIRUGIA MOD. MIMLED600 TECHO",
+   "img": "https://producsan.es/cms/img/p/3/5/7/357-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/5/7/357-home_default.jpg",
+   "desc": "MIMLED 600 es una luminaria Mimsal de cirugía LED disponible en tres versiones: techo, pared y base rodable. Intensidad de iluminación de 60.000 lux con un diámetro del campo de luz de 195mm. Alto índice de reproducción cromática y bajo reflejo para una excelente distinción de los tejidos.",
+   "cats": [
+    42,
+    5
+   ]
+  },
+  {
+   "id": 199,
+   "name": "PAPEL ECO SONY UPP-110HG 110X18mmx12E (C/10 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/3/6/2/362-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/6/2/362-home_default.jpg",
+   "desc": "Papel ecográfico Sony UPP-110HG - blanco/negro alto brillo Diseñado para evitar rizos y/o atascos durante la impresión y dotados de una capa antiestática capaz de evitar chispas o daños a los componentes electrónicos de la cabeza térmica de la impresora.",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 200,
+   "name": "PAPEL ECO SONY UPP-110HD 110x18mm (C/ 5 rollos)",
+   "img": "https://producsan.es/cms/img/p/3/6/5/365-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/6/5/365-home_default.jpg",
+   "desc": "Papel térmico UPP-110HD SONY Soporte de impresión de alta densidad en blanco y negro tamaño A6 (tipo II) Compatible para uso en impresoras: UP-UP-X898MD / D898MD / 897MD / D897MD / D897 / 895 / D895 / 890 / D890 / 860 / D860 Usado principalmente en las aplicaciones de ultrasonido, dental y microscopía.",
+   "cats": [
+    42
+   ]
+  },
+  {
+   "id": 201,
+   "name": "BATA ESTERIL QUIRURGICA LITE (Unidad)",
+   "img": "https://producsan.es/cms/img/p/3/6/6/366-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/6/6/366-home_default.jpg",
+   "desc": "Bata quirúrgica reforzada de alta protección frente a microorganismos y fluidos. Refuerzos internos: en el frontal y en los antebrazos que aseguran la impermeabilidadCosturas termoselladas por ultrasonidos: minimiza el riesgo de entrada de microorganismos por las costuras o ajuste mediante velcroPerfect.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 202,
+   "name": "BATA AZUL MARINO SIN MANGAS 40gr (BOLSA 10 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/6/9/369-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/6/9/369-home_default.jpg",
+   "desc": "Bata fabricada en polipropileno (tejido sin tejer) de 40 gr. Bata desechable sin mangas, ajustable mediante cintas al cuello y cintura. Libres de Látex 100%. Presentación: Bolsa de 10 unidades. Talla Única",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 203,
+   "name": "BATA BLANCA SIN MANGAS 40gr (UNIDAD)",
+   "img": "https://producsan.es/cms/img/p/3/7/1/371-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/7/1/371-home_default.jpg",
+   "desc": "Naturcare® Bata no estéril de exploración. No se transparentanCorrecta sujeción: dos cierres con cintas (cuello y cintura)Correcta transpiración de la pielTalla única: las medidas de longitud y anchura de la bata son holgadas para que cubran adecuadamente el cuerpo de cualquier persona de forma cómoda Cumple con la normativa: RD 1591/2009 de productos...",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 204,
+   "name": "BATA AZUL CLARO NO ESTERIL CON MANGA Y PUÑO (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/7/3/373-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/7/3/373-home_default.jpg",
+   "desc": "Naturcare® Bata no estéril visita hospitalaria. Bata puño elástico, Azul de 30 gr.Correcta sujeción: dos cierres con cintas (cuello y cintura)Correcta transpiración de la piel.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 205,
+   "name": "CUBREZAPATOS DE POLIPROPILENO TNT VERDES (B/100 UNI)",
+   "img": "https://producsan.es/cms/img/p/3/7/5/375-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/7/5/375-home_default.jpg",
+   "desc": "Cubre zapatos tejido no tejido Polipropileno verde 30 gr. Sujeción con elástico.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 206,
+   "name": "CUBREZAPATOS DE POLIPROPILENO TNT BLANCOS (BOLSA 100 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/7/7/377-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/7/7/377-home_default.jpg",
+   "desc": "Cubrezapatos TST Blanco 30gr. Talla única: las medidas de longitud y anchura son las adecuadas para cubrir correctamente zapatos de cualquier tamaño No se desprende al andar: sujeción elástica en el tobillo Seguridad al caminar: los cubrezapatos y polainas son rugosos en toda la superficie",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 207,
+   "name": "GORRO ENFERMERA CON GOMA ESTANDAR BLANCO (B/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/8/5/585-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/8/5/585-home_default.jpg",
+   "desc": "Gorro de enfermera con gomas fabricado en tejido sin tejer, ajustable con gomas. Color: Blanco. Presentación: Bolsa 100 unidades.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 208,
+   "name": "DIADEMA DE PELO ELASTICA DESHECHABLE (BOLSA 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/8/2/382-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/8/2/382-home_default.jpg",
+   "desc": "Cinta desechable para el pelo elástica, confeccionada con tejido no tejido de polipropileno PP de color blanco. Para sujetar el cabello y mantenerlo retirado de la cara en los tratamientos faciales o maquillajes. Biodegradables. Dermatológicamente testados. Presentación: Bolsa de 50 unidades",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 209,
+   "name": "GUANTES CIRUGÍA ESTERIL S/POLVO NATURFLEX (C/50 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/8/6/586-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/8/6/586-home_default.jpg",
+   "desc": "Naturflex® guantes de examen estériles de látex sin polvo. Indicados para la prevención de la contaminación cruzada en aquellas prácticas sanitarias que implican un contacto usuario paciente y se precisa la máxima asepsia, gracias a la presentación estéril del producto.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 210,
+   "name": "GUANTES CIRUGÍA ESTERIL CON POLVO NATURFLEX (C/ 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/9/0/390-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/9/0/390-home_default.jpg",
+   "desc": "Naturflex® guantes de examen estériles de látex con polvo Indicados para la prevención de la contaminación cruzada en aquellas prácticas sanitarias que implican un contacto usuario paciente y se precisa la máxima asepsia, gracias a la presentación estéril del producto.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 211,
+   "name": "GUANTES LATEX S/ POLVO NATURFLEX MICRO (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/9/3/393-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/9/3/393-home_default.jpg",
+   "desc": "Naturflex®µ guantes de examen no estériles de látex sin polvo Guantes de uso médico para la prevención de la infección en aquellas prácticas sanitarias que comportan un contacto usuario-paciente.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 212,
+   "name": "GUANTES LATEX S/ POLVO NATURFLEX (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/9/7/397-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/9/7/397-home_default.jpg",
+   "desc": "Naturflex® guantes de examen no estériles de látex sin polvo Guantes de uso médico para la prevención de la infección cruzada en aquellas prácticas sanitarias que comportan un contacto usuario-paciente.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 213,
+   "name": "GUANTES NITRILO NEGROS SIN POLVO (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/9/8/398-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/9/8/398-home_default.jpg",
+   "desc": "Guante de nitrilo touch sin polvo. Color Negro. Caja de 100. Composición: Nitrilo Color: Negro",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 214,
+   "name": "GUANTES NITRILO S/POLVO MORADO (C/ 100 UNID)",
+   "img": "https://producsan.es/cms/img/p/3/9/9/399-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/3/9/9/399-home_default.jpg",
+   "desc": "Guantes de nitrilo touch sin polvo. Color Morado. Caja de 100. Varias tallas Composición: Nitrilo Color: Morado",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 215,
+   "name": "GUANTES NITRILO S/ POLVO NATURFLEX (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/0/1/401-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/0/1/401-home_default.jpg",
+   "desc": "Naturflex® guantes de examen no estériles de nitrilo sin polvo Guantes de uso médico para la prevención de la infección en aquellas prácticas sanitarias que comportan un contacto usuario-paciente. Indicados para aquellas tareas que implican una exposición prolongada a sangre, líquidos corporales, agentes químicos y citostáticos.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 216,
+   "name": "GUANTES PLÁSTICO AMBIDIESTRO NO ESTÉRIL (B/ 100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/0/3/403-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/0/3/403-home_default.jpg",
+   "desc": "GUANTES POLIETILENO. COMPOSICIÓN: 100% Polietileno. TALLAS: Única. PRESENTACIÓN: Bolsa dispensadora de 100 uds.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 217,
+   "name": "GUANTES VINILO S/POLVO NATURFLEX (C/ 100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/0/4/404-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/0/4/404-home_default.jpg",
+   "desc": "Naturflex® guantes de examen no estériles de vinilo sin polvo Guantes de uso médico para la prevención de la infección cruzada en aquellas prácticas sanitarias que comportan un contacto usuario-paciente. Especialmente indicados para aquellas tareas que comporten un riesgo moderado como realizar la higiene del paciente.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 218,
+   "name": "GUANTES VINILO CON POLVO (C/ 100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/0/7/407-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/0/7/407-home_default.jpg",
+   "desc": "Indicados para la manipulación alimentaria. En vinilo semitransparente con empolvado para una fácil colocación. Buena flexibilidad y resistencia a la rotura.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 219,
+   "name": "GUANTES LATEX SIN POLVO DERMOFLEX (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/1/2/412-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/1/2/412-home_default.jpg",
+   "desc": "Dermoflex® guantes de examen no estériles de látex sin polvo Guantes de uso médico para la prevención de la infección curzada en aquellas prácticas sanitarias que comportan un contacto usuario-paciente.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 220,
+   "name": "GUANTES LATEX CON POLVO DERMOFLEX (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/1/3/413-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/1/3/413-home_default.jpg",
+   "desc": "Naturflex® guantes de examen no estériles de látex con polvo Guantes de uso médico para la prevención de la infección cruzada en aquellas prácticas sanitarias que comportan un contacto usuario-paciente.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 221,
+   "name": "GUANTES NITRILO SIN POLVO SENSIFLEX LITE (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/1/6/416-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/1/6/416-home_default.jpg",
+   "desc": "Sensiflex® Lite guantes de examen no estériles de nitrilo sin polvo Guantes de uso médico para la prevención de la infección cruzada en aquellas prácticas sanitarias que comportan un contacto usuario-paciente. Ofrecen protección frente a microorganismos, sustancias químicas y citostáticos. Especialmente adecuado para aquellas tareas que requieran precisión.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 222,
+   "name": "GUANTES NITRILO S/POLVO SENSIFLEX (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/2/1/421-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/2/1/421-home_default.jpg",
+   "desc": "Sensiflex® Lite guantes de examen no estériles de nitrilo sin polvo Guantes de uso médico para la prevención de la infección cruzada en aquellas prácticas sanitarias que comportan un contacto usuario-paciente. Ofrecen protección frente a microorganismos, sustancias químicas y citostáticos. Especialmente adecuado para aquellas tareas que requieran precisión.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 223,
+   "name": "MASCARILLA QUIRURGICA ALTO RIESGO CON GOMAS (C/ 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/2/2/422-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/2/2/422-home_default.jpg",
+   "desc": "- Protección de las vías respiratorias. Minimiza el riesgo de alergias: libre de látex y carente de fibras de vidrio.- No irrita la piel: nuestras mascarillas no desprenden ninguna fibra de TST incluso con un uso prolongado.- Facilidad de respiración: la mascarilla se ha fabricado con un material de alta protección y baja resistencia a la respiración",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 224,
+   "name": "MASCARILLA QUIRURGICA ALTO RIESGO CON CINTAS (C/ 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/2/6/426-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/2/6/426-home_default.jpg",
+   "desc": "- Protección de las vías respiratorias. Minimiza el riesgo de alergias: libre de látex y carente de fibras de vidrio.- No irrita la piel: nuestras mascarillas no desprenden ninguna fibra de TST incluso con un uso prolongado.- Facilidad de respiración: la mascarilla se ha fabricado con un material de alta protección y baja resistencia a la respiración",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 225,
+   "name": "MASCARILLA CONICA BLANCA ANTIVAHO (C/50 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/2/4/424-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/2/4/424-home_default.jpg",
+   "desc": "Mascarillas de polipropileno cónicas indicadas para proteger contra el polvo y partículas no tóxicas",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 226,
+   "name": "MASCARILLA PAPEL CON GOMAS (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/2/7/427-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/2/7/427-home_default.jpg",
+   "desc": "Mascarillas de papel indicadas para proteger contra el polvo y partículas no tóxicas.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 227,
+   "name": "PANTALON PRESOTERAPIA DE POLIPROPILENO (Unid)",
+   "img": "https://producsan.es/cms/img/p/4/2/8/428-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/2/8/428-home_default.jpg",
+   "desc": "Pantalones de polipropileno transpirables",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 228,
+   "name": "SABANA CAMILLA BLANCA AJUSTABLE 80x210cm (B/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/3/0/430-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/3/0/430-home_default.jpg",
+   "desc": "Sábana ajustable desechable, confeccionada con tejido no tejido de polipropileno (PP), de color blanco. Con elásticos en los extremos para ajustar a la camilla. Para evitar al paciente el contacto directo con la camilla de reconocimiento. Medidas de la sábana: 80 cm de ancho, 60 cm de ajuste x 210 cm de largo. Presentación: Empaquetado en bolsas de 10...",
+   "cats": [
+    3,
+    37
+   ]
+  },
+  {
+   "id": 229,
+   "name": "SABANA CAMILLA AJUSTABLE BLANCA 40gr 95x220cm (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/3/1/431-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/3/1/431-home_default.jpg",
+   "desc": "Sábana ajustable desechable, confeccionada con tejido no tejido de polipropileno (PP), de color blanco. Con elásticos en los extremos para ajustar a la camilla. Para evitar al paciente el contacto directo con la camilla de reconocimiento. Medidas de la sábana: 95cm de ancho x 220cm de largo. Artículo: 40 gramos /m². Presentación: Caja de 100 sábanas.",
+   "cats": [
+    3,
+    37
+   ]
+  },
+  {
+   "id": 230,
+   "name": "SABANA CAMILLA AJUSTABLE BLANCA 40gr 100x220cm",
+   "img": "https://producsan.es/cms/img/p/4/3/2/432-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/3/2/432-home_default.jpg",
+   "desc": "Sábana ajustable desechable, confeccionada con tejido no tejido de polipropileno (PP), de color blanco. Con elásticos en los extremos para ajustar a la camilla. Para evitar al paciente el contacto directo con la camilla de reconocimiento. Medidas de la sábana: 100cm de ancho x 220cm de largo. Artículo: 40 gramos /m². Presentación: unidad.",
+   "cats": [
+    3,
+    37
+   ]
+  },
+  {
+   "id": 231,
+   "name": "TANGA SEÑORAS TNT 35gr (Bolsa 25 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/3/3/433-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/3/3/433-home_default.jpg",
+   "desc": "Tangas desechables útiles para centros de estética, balnearios, centros de bronceado, de depilación, masajes, etc.",
+   "cats": [
+    37
+   ]
+  },
+  {
+   "id": 232,
+   "name": "AGUJAS 30G (0,30x13mm) (C/100 UNID) BD",
+   "img": "https://producsan.es/cms/img/p/4/3/4/434-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/3/4/434-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 233,
+   "name": "AGUJAS 23G (0,6x25mm) (C/100 UNID) BD",
+   "img": "https://producsan.es/cms/img/p/4/3/6/436-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/3/6/436-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 234,
+   "name": "AGUJAS 18G (1.2x40mm) (C/100 UNID) BD",
+   "img": "https://producsan.es/cms/img/p/6/7/8/678-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/7/8/678-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 235,
+   "name": "AGUJAS 30G (0,3x12mm) (C/100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/4/0/440-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/4/0/440-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 237,
+   "name": "AGUJAS 23G (0,6x25mm) (C/100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/4/4/444-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/4/4/444-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 238,
+   "name": "AGUJAS 21G (0,8x25mm) (C/100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/4/6/446-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/4/6/446-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 239,
+   "name": "AGUJAS 21G (0,8x40mm) (C/100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/4/9/449-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/4/9/449-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 240,
+   "name": "AGUJAS 21G ( 0,8x50mm) (C/100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/5/1/451-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/5/1/451-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 241,
+   "name": "AGUJAS 20G (0,9x25mm) (C/100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/5/3/453-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/5/3/453-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 242,
+   "name": "AGUJAS 18G (1,20x40mm) (C/100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/5/5/455-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/5/5/455-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 251,
+   "name": "JERINGA 3 CUERPOS 5ml (C/100 UNID) OMNIFIX-BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/7/5/475-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/7/5/475-home_default.jpg",
+   "desc": "Jeringa de tres cuerpos, con conexión luer para administración de sustancias inyectables, extracción de sangre o fluidos. Graduación impresa, imborrable y de fácil lectura. No contiene látex. Estéril.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 252,
+   "name": "JERINGA 3 CUERPOS 10ml EXCENT. (C/100 UNID) OMNIFIX-BRAUN",
+   "img": "https://producsan.es/cms/img/p/6/8/3/683-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/8/3/683-home_default.jpg",
+   "desc": "Jeringa de tres cuerpos, con conexión luer para administración de sustancias inyectables, extracción de sangre o fluidos. Graduación impresa, imborrable y de fácil lectura. No contiene látex. Estéril.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 253,
+   "name": "JERINGAS 3 CUERPOS 5ml CONO LUER-LOCK (C/ 100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/7/8/478-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/7/8/478-home_default.jpg",
+   "desc": "Jeringa de tres cuerpos, con conexión luer-lock para administración de sustancias inyectables, extracción de sangre o fluidos. Graduación impresa, imborrable y de fácil lectura. No contiene látex. Estéril.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 254,
+   "name": "JERINGAS 3 CUERPOS 10ml CONO LUER-LOCK (C/100 UNID) BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/7/9/479-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/7/9/479-home_default.jpg",
+   "desc": "Jeringa de tres cuerpos, con conexión luer-lock para administración de sustancias inyectables, extracción de sangre o fluidos. Graduación impresa, imborrable y de fácil lectura. No contiene látex. Estéril.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 255,
+   "name": "JERINGA 3 CUERPOS 1ml TUBERC. C/A 25G (0,5x16mm) (C/100 UNID) OMNIFIX-BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/8/0/480-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/8/0/480-home_default.jpg",
+   "desc": "Jeringa de tres cuerpos, con conexión luer lock para administración de sustancias inyectables, extracción de sangre o fluidos. Graduación impresa, imborrable y de fácil lectura. No contiene látex. Estéril.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 259,
+   "name": "LLAVE DE TRES PASOS DISCOFIX AZUL",
+   "img": "https://producsan.es/cms/img/p/4/8/9/489-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/8/9/489-home_default.jpg",
+   "desc": "Llave de tres vías estándar o con alargadera, para sistemas de infusión. Estéril, estuchada individualmente.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 260,
+   "name": "LLAVE DE TRES PASOS BD (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/8/8/488-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/8/8/488-home_default.jpg",
+   "desc": "Llave de tres pasos que permite optimizar la administración de medicación, fluidos y/o hemoderivados por vía intravenosa.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 261,
+   "name": "JERINGA 3 CUERPOS 0,5ml INSULINA C/A 30G (0,3x12mm) (C/100 UNID) OMNICAN-BRAUN",
+   "img": "https://producsan.es/cms/img/p/4/9/3/493-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/9/3/493-home_default.jpg",
+   "desc": "Jeringa de tres cuerpos, con conexión luer para administración de sustancias inyectables, extracción de sangre o fluidos. Graduación impresa, imborrable y de fácil lectura. No contiene látex. Estéril.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 262,
+   "name": "JERINGAS INSULINA 100U MICROFINE 1ml C/A 29G 0.36x12mm (B/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/4/9/7/497-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/4/9/7/497-home_default.jpg",
+   "desc": "Jeringa de tres cuerpos, con conexión luer para administración de sustancias inyectables, extracción de sangre o fluidos. Graduación impresa, imborrable y de fácil lectura. No contiene látex. Estéril. Jeringa para inyecciones subcutï¿½neas y de pequeï¿½as dosis Jeringa de 1 ml. para tuberculina con aguja 0,36 x 12 mm en cajas de 100.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 263,
+   "name": "JERINGAS 3 CUERPOS1ml TUBERC. S/A (C/100 UNID) ICO",
+   "img": "https://producsan.es/cms/img/p/5/0/0/500-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/0/0/500-home_default.jpg",
+   "desc": "Jeringa 1 ml. ICO PLUS 3 Tuberculina. Presentación en cajas de 100 unidades.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 264,
+   "name": "JERINGA 3 CUERPOS 5ML (C/ 100 UNID) - ICO",
+   "img": "https://producsan.es/cms/img/p/5/0/1/501-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/0/1/501-home_default.jpg",
+   "desc": "Jeringa 5 ml. Luer céntrica 3 piezas. ICO Plus3. Sin aguja. Caja de 100 unidades.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 265,
+   "name": "JERINGAS 3 CUERPOS 10ml (C/100 UNID) ICO",
+   "img": "https://producsan.es/cms/img/p/5/0/3/503-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/0/3/503-home_default.jpg",
+   "desc": "Jeringa 10 ml. Luer céntrica 3 piezas. ICO Plus3. Sin aguja. Caja de 100 unidades.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 266,
+   "name": "JERINGAS 3 CUERPOS 20ml (C/100 UNID)-ICO",
+   "img": "https://producsan.es/cms/img/p/5/0/5/505-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/0/5/505-home_default.jpg",
+   "desc": "Jeringa 20 ml. Luer céntrica 3 piezas. ICO Plus3. Sin aguja. Caja de 100 unidades.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 267,
+   "name": "JERINGA 3 CUERPOS 2,5ml (C/100 UNID)-ICO",
+   "img": "https://producsan.es/cms/img/p/5/0/7/507-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/0/7/507-home_default.jpg",
+   "desc": "Jeringa 2.5 ml. Luer céntrica 3 piezas. ICO Plus3. Sin aguja. Caja de 100 unidades.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 268,
+   "name": "JERINGA 3 CUERPOS 1ml INSULINA C/A 25G (0,5x16mm) (C/100 UNID)-ICO",
+   "img": "https://producsan.es/cms/img/p/5/0/9/509-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/0/9/509-home_default.jpg",
+   "desc": "Jeringa insulina de 1 ml. con aguja de 0,5 x 16 mm. ICO PLUS 3.Caja de 100 unidades.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 270,
+   "name": "CONTENEDOR DE SEGURIDAD AGUJAS Y OBJETOS PUNZANTES BIOCOMPACT",
+   "img": "https://producsan.es/cms/img/p/5/1/1/511-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/1/1/511-home_default.jpg",
+   "desc": "Diseñados para facilitar su utilización e integrarse en los espacios hospitalarios aportando seguridad y diseño. Tres sistemas de extracción de agujas (Vacutainer, Venojet e insulina) para un acceso cómodo y ambidiestro.",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 272,
+   "name": "ROLLO DE ESTERILIZACION PARA AUTOCLAVE",
+   "img": "https://producsan.es/cms/img/p/5/1/7/517-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/1/7/517-home_default.jpg",
+   "desc": "Bobinas para esterilización compuestas por una cara en papel de grado médico de 60 g/m2, y una película de poliéster y polipropileno azul de 52 µ. Conforme la norma EN 868-5. Para procesamiento por vapor y por óxido de etileno. Llevan indicadores impresos. Para cerrar mediante termosellador. 200 metros de longitud. Disponible en diferentes medidas.",
+   "cats": [
+    40,
+    38,
+    45
+   ]
+  },
+  {
+   "id": 273,
+   "name": "SOBRES PARA ESTERILIZACION 14 x 25cm (B/ 200 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/1/8/518-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/1/8/518-home_default.jpg",
+   "desc": "Bicapa: una capa de papel grueso de uso médico y una capa de plástico azul transparente, resistente a la perforación. Resistente al vapor de agua, químicos y óxidos de etileno. Indicadores de cambio de color incorporados. Muescas de pulgar para apertura fácil.",
+   "cats": [
+    40,
+    38,
+    45
+   ]
+  },
+  {
+   "id": 274,
+   "name": "SOBRES PARA ESTERILIZACION 21 x 32cm (B/ 100 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/2/0/520-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/2/0/520-home_default.jpg",
+   "desc": "Bicapa: una capa de papel grueso de uso médico y una capa de plástico azul transparente, resistente a la perforación. Resistente al vapor de agua, químicos y óxidos de etileno. Indicadores de cambio de color incorporados. Muescas de pulgar para apertura fácil.",
+   "cats": [
+    40,
+    38,
+    45
+   ]
+  },
+  {
+   "id": 275,
+   "name": "CINTA INDICADORA CONTROL VAPOR 19mm ROLLO 50m",
+   "img": "https://producsan.es/cms/img/p/5/2/1/521-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/2/1/521-home_default.jpg",
+   "desc": "Las cintas indicadoras de vapor rollo de 19mm x 50m.",
+   "cats": [
+    40,
+    38,
+    45
+   ]
+  },
+  {
+   "id": 276,
+   "name": "INDICADOR TIRAS DE CONTROL \"STERIGUT\" VAPOR (C/ 250 Unid.)",
+   "img": "https://producsan.es/cms/img/p/5/2/2/522-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/2/2/522-home_default.jpg",
+   "desc": "El indicador químico Sterigut está indicado para el control riguroso de las condiciones de esterilización de los paquetes procesados por vapor a 134º C y 121º C indistintamente, de ésta manera se podrá ofrecer información al usuario de como se ha desarrollado el proceso de esterilización.",
+   "cats": [
+    40,
+    38,
+    45
+   ]
+  },
+  {
+   "id": 277,
+   "name": "SUTURA CUTANEA ADHESIVA \"LEUKOSTRIP\" 4 x 76mm (C/ 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/2/4/524-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/2/4/524-home_default.jpg",
+   "desc": "LEUKOSTRIP son tiras adhesivas porosas para el cierre de heridas, compuestas de 100% poliamida recubierta por un adhesivo hipoalergénico que facilita, de forma prácticamente indolora, el cierre de una herida. Puede utilizarse en combinación con suturas subcutáneas o como sustitutivo de puntos en suturas de superficie.",
+   "cats": [
+    34,
+    39
+   ]
+  },
+  {
+   "id": 278,
+   "name": "SUTURA CUTANEA ADHESIVA \"LEUKOSTRIP\" 6,4 x 76mm (C/ 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/2/6/526-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/2/6/526-home_default.jpg",
+   "desc": "LEUKOSTRIP son tiras adhesivas porosas para el cierre de heridas, compuestas de 100% poliamida recubierta por un adhesivo hipoalergénico que facilita, de forma prácticamente indolora, el cierre de una herida. Puede utilizarse en combinación con suturas subcutáneas o como sustitutivo de puntos en suturas de superficie.",
+   "cats": [
+    34,
+    39
+   ]
+  },
+  {
+   "id": 279,
+   "name": "SUTURA CUTANEA ADHESIVA \"LEUKOSTRIP\" 6,4 x 102mm (C/ 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/2/8/528-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/2/8/528-home_default.jpg",
+   "desc": "LEUKOSTRIP son tiras adhesivas porosas para el cierre de heridas, compuestas de 100% poliamida recubierta por un adhesivo hipoalergénico que facilita, de forma prácticamente indolora, el cierre de una herida. Puede utilizarse en combinación con suturas subcutáneas o como sustitutivo de puntos en suturas de superficie.",
+   "cats": [
+    34,
+    39
+   ]
+  },
+  {
+   "id": 280,
+   "name": "SUTURA CUTANEA ADHESIVA \"LEUKOSTRIP\" 13 x 102mm (C/ 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/3/0/530-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/3/0/530-home_default.jpg",
+   "desc": "LEUKOSTRIP son tiras adhesivas porosas para el cierre de heridas, compuestas de 100% poliamida recubierta por un adhesivo hipoalergénico que facilita, de forma prácticamente indolora, el cierre de una herida. Puede utilizarse en combinación con suturas subcutáneas o como sustitutivo de puntos en suturas de superficie.",
+   "cats": [
+    34,
+    39
+   ]
+  },
+  {
+   "id": 281,
+   "name": "SUTURA CUTÁNEA ADHESIVA \"\"STERI-STRIP\"\" 3 x 75mm",
+   "img": "https://producsan.es/cms/img/p/5/3/2/532-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/3/2/532-home_default.jpg",
+   "desc": "Suturas cutáneas reforzadas, adhesivas, estériles y hipoalergénicas. La única sutura cutánea reforzada, para un cierre perfecto en todas las situaciones, permite una aproximación más precisa de los bordes de la herida. Proporciona soporte a heridas en cierres rápidos o tras la retirada de grapas. Apropiado para heridas de baja tensión. Envase de 250...",
+   "cats": [
+    34,
+    39
+   ]
+  },
+  {
+   "id": 282,
+   "name": "SUTURA CUTÁNEA ADHESIVA \"\"STERI-STRIP\"\" 6 x 75mm",
+   "img": "https://producsan.es/cms/img/p/5/4/7/547-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/4/7/547-home_default.jpg",
+   "desc": "Suturas cutáneas reforzadas, adhesivas, estériles y hipoalergénicas. La única sutura cutánea reforzada, para un cierre perfecto en todas las situaciones, permite una aproximación más precisa de los bordes de la herida. Proporciona soporte a heridas en cierres rápidos o tras la retirada de grapas. Apropiado para heridas de baja tensión. Envase de 250...",
+   "cats": [
+    34,
+    39
+   ]
+  },
+  {
+   "id": 283,
+   "name": "SUTURA CUTÁNEA ADHESIVA \"\"STERI-STRIP\"\" 6 x 38mm",
+   "img": "https://producsan.es/cms/img/p/5/4/2/542-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/4/2/542-home_default.jpg",
+   "desc": "Suturas cutáneas reforzadas, adhesivas, estériles y hipoalergénicas. La única sutura cutánea reforzada, para un cierre perfecto en todas las situaciones, permite una aproximación más precisa de los bordes de la herida. Proporciona soporte a heridas en cierres rápidos o tras la retirada de grapas. Apropiado para heridas de baja tensión. Envase de 250...",
+   "cats": [
+    34,
+    39
+   ]
+  },
+  {
+   "id": 284,
+   "name": "SUTURA CUTÁNEA ADHESIVA \"\"STERI-STRIP\"\" 6 x 100mm",
+   "img": "https://producsan.es/cms/img/p/5/5/4/554-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/5/4/554-home_default.jpg",
+   "desc": "Suturas cutáneas reforzadas, adhesivas, estériles y hipoalergénicas. La única sutura cutánea reforzada, para un cierre perfecto en todas las situaciones, permite una aproximación más precisa de los bordes de la herida. Proporciona soporte a heridas en cierres rápidos o tras la retirada de grapas. Apropiado para heridas de baja tensión. Envase de 250...",
+   "cats": [
+    34,
+    39
+   ]
+  },
+  {
+   "id": 285,
+   "name": "PINZA QUITAGRAPAS 13 cm",
+   "img": "https://producsan.es/cms/img/p/5/5/5/555-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/5/5/555-home_default.jpg",
+   "desc": "Tijera quirúrgica para quitar grapas durante una operación o intervención quirúrgica. Fabricado en acero quirúrgico y con mango de plástico. Esta completamente esterilizada.",
+   "cats": [
+    38,
+    39
+   ]
+  },
+  {
+   "id": 286,
+   "name": "QUITAGRAPAS MEDISET METALICA 1 UNID",
+   "img": "https://producsan.es/cms/img/p/5/5/6/556-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/5/6/556-home_default.jpg",
+   "desc": "MediSet Pinza HARTMANN quitagrapas metálica. La línea de accesorios mediset consta de una serie de componentes desechables que se utilizan para el cuidado de heridas. Usted encontrará artículos desechables de alta calidad.",
+   "cats": [
+    38,
+    39
+   ]
+  },
+  {
+   "id": 287,
+   "name": "BOQUILLAS ESPIRÓMETRO 55x26x28 \"DATOSPIR-70\" (B/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/5/8/558-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/5/8/558-home_default.jpg",
+   "desc": "BOQUILLAS ESPIROMETRO DATOSPIR 60X28X30 QUIRUMED BOLSA 100 UNID. son boquillas desechables de cartón para espirometría. Se puede usar con una gran cantidad de espirómetros del mercado. Medidas: 28 mm diámetro ext. X 55 mm largo. Para adulto",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 288,
+   "name": "BOQUILLA ESPIRÓMETRO 60x26x28 ext (B/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/5/9/559-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/5/9/559-home_default.jpg",
+   "desc": "BOQUILLA ESPIROMETRO 60X26X28mm BOLSA SOLUCIONES TECNICO SANITARIAS 100 UD desechable de cartón para espirometría. Se puede usar con una gran cantidad de espirómetros del mercado",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 289,
+   "name": "ESPECULO AURICULAR MINI HEINE (B/ 50 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/6/0/560-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/6/0/560-home_default.jpg",
+   "desc": "ESPECULOS OTOSCOPIO HEINE UNISPEC B/50 UNID. Espéculos desechables HEINE UniSpec para exploración ORL",
+   "cats": [
+    41,
+    44
+   ]
+  },
+  {
+   "id": 290,
+   "name": "ESPECULO AURICULAR RIESTER (B/1000 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/6/3/563-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/6/3/563-home_default.jpg",
+   "desc": "ESPECULOS OTOSCOPIO RIESTER R4 CAJA 1000 UD. para exploración ORL, de uso único, válido para los otoscopios Ri-Scope L1 y L2. Alternativa especialmente higiénica para evitar contaminaciones cruzadas",
+   "cats": [
+    41,
+    44
+   ]
+  },
+  {
+   "id": 291,
+   "name": "PROTOSCOPIO-ANOSCOPIO MED C/L 70mm x 20mm (22mm)",
+   "img": "https://producsan.es/cms/img/p/5/6/4/564-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/6/4/564-home_default.jpg",
+   "desc": "Proctoscopios de un solo uso y excelente diseño para uso general. Fabricados en material plástico ultratransparente para facilitar su visión. Disponemos un modelo sencillo mediano y modelos pequeño, mediano y grande preparados para adaptar un sistema de luz fría de las marcas Naunton, Morgan Stortz, Heine, Welch Allun, Olympus, etc.Envasados...",
+   "cats": [
+    41,
+    44
+   ]
+  },
+  {
+   "id": 292,
+   "name": "AGUA DESTILADA GARRAFA 5 L",
+   "img": "https://producsan.es/cms/img/p/5/6/5/565-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/6/5/565-home_default.jpg",
+   "desc": "AGUA DESTILADA PURIFICADA GARRAFA 5 LITROS desionizada, desmineralizada y purificada, fabricada a partir de agua potable. Se ajusta a las normas según RD140/2003.",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 293,
+   "name": "GUANTES NEGROS POLIAM RECUBIERTO DE POLIURETANO MAPA 548 T-9",
+   "img": "https://producsan.es/cms/img/p/5/6/6/566-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/6/6/566-home_default.jpg",
+   "desc": "Guante Poliam Recubierto de Poliuretano - MAPA - 548",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 294,
+   "name": "GUANTE DE PIEL FLOR VACUNO COLOR CRUDO 160 IBSZ TALLA 9",
+   "img": "https://producsan.es/cms/img/p/5/6/7/567-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/6/7/567-home_default.jpg",
+   "desc": "El sector industria, es un sector que requiere unas prendas acordes a las necesidades de cada puesto de trabajo, por ello nosotros disponemos de prendas que cumplen las características necesarias para abarcar diferentes profesiones dentro de la industria, como: fontanero, albañil, pintor, mecánico, soldador, ordenanza, seguridad...",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 295,
+   "name": "VASOS PLASTICO 200-220 ml (B/ 100 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/6/8/568-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/6/8/568-home_default.jpg",
+   "desc": "Vaso de plástico realizado en material de polipropileno, no se astilla.",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 296,
+   "name": "AGUA DE LAVADO 500 ml \"ECOLAV\" (C/10 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/6/9/569-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/6/9/569-home_default.jpg",
+   "desc": "Solución estéril y apirógena para irrigación y lavado durante intervenciones quirúrgicas. Para irrigación de heridas y quemaduras. Para humedecer heridas cerradas, vendajes. Para enjuague y limpieza de los catéteres para vejiga. Para irrigación y limpieza en cuidados de estoma. Para rellenar humidificadores respiratorios. Para irrigación y limpieza del...",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 297,
+   "name": "SUERO FISIOLÓGICO 5 ml monodosis ( C/30 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/7/0/570-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/0/570-home_default.jpg",
+   "desc": "",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 298,
+   "name": "JABON DE MANOS NEUTRO DERMO 300 ml",
+   "img": "https://producsan.es/cms/img/p/5/7/1/571-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/1/571-home_default.jpg",
+   "desc": "",
+   "cats": [
+    21,
+    44
+   ]
+  },
+  {
+   "id": 299,
+   "name": "AMBIENTADOR RECAMBIO ENCHUFE NENUCO",
+   "img": "https://producsan.es/cms/img/p/5/7/2/572-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/2/572-home_default.jpg",
+   "desc": "",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 300,
+   "name": "AMBIENTADOR NENUCO PURE (BOTE CON PULVERIZADOR)",
+   "img": "https://producsan.es/cms/img/p/5/7/3/573-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/3/573-home_default.jpg",
+   "desc": "",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 301,
+   "name": "VASELINA POMADA 30 gr",
+   "img": "https://producsan.es/cms/img/p/5/7/4/574-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/4/574-home_default.jpg",
+   "desc": "",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 302,
+   "name": "BOLSA DE BASURA INDUSTRIAL NEGRA 80x105 (P/ 10 BOLSAS)",
+   "img": "https://producsan.es/cms/img/p/5/7/5/575-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/5/575-home_default.jpg",
+   "desc": "",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 303,
+   "name": "TAPÓN AUDITIVO 3M (C/200 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/7/6/576-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/6/576-home_default.jpg",
+   "desc": "Tapón desechable. Material hipoalergénico. Suave y flexible para mayor confort en el canal auditivo. Protección NRR 29dB",
+   "cats": [
+    37,
+    44
+   ]
+  },
+  {
+   "id": 304,
+   "name": "AMBIENTADOR AUTOMATICO NENUCO 250 ml",
+   "img": "https://producsan.es/cms/img/p/5/7/8/578-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/8/578-home_default.jpg",
+   "desc": "",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 305,
+   "name": "JABON DE MANOS NEUTRO DERMO 500 ml",
+   "img": "https://producsan.es/cms/img/p/5/7/9/579-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/7/9/579-home_default.jpg",
+   "desc": "",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 306,
+   "name": "TORUNDAS DENTALES nº2",
+   "img": "https://producsan.es/cms/img/p/5/8/0/580-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/8/0/580-home_default.jpg",
+   "desc": "ROLLOS DENTALES MONOUSO 100% algodón. Algodón de fibra larga y rápida absorción. Blanqueado sin cloro",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 307,
+   "name": "BASTONCILLOS DE OIDOS (C/ 200 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/8/1/581-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/8/1/581-home_default.jpg",
+   "desc": "Bastoncillos de algodón 100% puro. Son adecuados para la limpieza del oído o nariz del bebé utilizando el bastoncillo solamente en la parte exterior del canal auditivo o nasal, evitando introducirlo dentro del canal auditivo o nasal",
+   "cats": [
+    3,
+    44
+   ]
+  },
+  {
+   "id": 308,
+   "name": "JABON DE MANOS KIMBERLY-CLARK 1 L (C/6 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/8/2/582-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/8/2/582-home_default.jpg",
+   "desc": "",
+   "cats": [
+    21,
+    44
+   ]
+  },
+  {
+   "id": 309,
+   "name": "LEUKOTAPE REMOVER 350 ml",
+   "img": "https://producsan.es/cms/img/p/5/8/3/583-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/8/3/583-home_default.jpg",
+   "desc": "LEUKOTAPE REMOVER BSN 350 ML Solución alcohólica. Disuelve rápida y eficazmente cualquier tipo de adhesivo. Leukotape separa de manera no traumática cualquier tipo de adhesivo hidrocoloidal, acrílico o a base de resina, protegiendo e hidratando la piel.",
+   "cats": [
+    6,
+    44
+   ]
+  },
+  {
+   "id": 312,
+   "name": "TAPON CONO COMBI LUER ROJO ESTERIL (C/100 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/8/8/588-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/8/8/588-home_default.jpg",
+   "desc": "Tapón cono combi, con sistema de conexión luer-lock, para múltiples aplicaciones",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 313,
+   "name": "SUTURA PROLENE 3/0 C/AGUJA CURVA PS1 (C/ 12 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/8/9/589-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/8/9/589-home_default.jpg",
+   "desc": "REF. FABRICANTE: W8684 Sutura no absorbible monofilamento, compuesta de estereoisómero cristalino isótactico de polipropileno. El color de la sutura es azul. Esterilizada con óxido de etileno. Sutura de Polipropileno PROLENE® Si buscas otra sutura ETHICON, busca la referencia en el catálogo adjunto y solicítanosla por mail. SUTURAS ETHICON",
+   "cats": [
+    39
+   ]
+  },
+  {
+   "id": 314,
+   "name": "TUBOS DESECHABLES PARA PROCTOSCOPIO 130x20mm (C/25 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/9/0/590-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/9/0/590-home_default.jpg",
+   "desc": "TUBOS DESECHABLES PARA PROCTOSCOPIO UNI-SPEC LONG 130x20mm. Un solo uso. Seguridad absoluta contra contagio infeccioso. No precisan limpieza. Transmisión de la luz a través de la pared del tubo. Salida de la luz de forma anular en el extremo distal del tubo. Iluminación clara y homogénea del campo de observación. Graduación. Se reconoce la profundidad de...",
+   "cats": [
+    41,
+    44
+   ]
+  },
+  {
+   "id": 315,
+   "name": "SUTURA PROLENE 3/0 C/AGUJA CURVA PC25 (C/ 12 UNID)",
+   "img": "https://producsan.es/cms/img/p/5/9/3/593-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/9/3/593-home_default.jpg",
+   "desc": "REF. FABRICANTE: W538 Sutura no absorbible monofilamento, compuesta de estereoisómero cristalino isótactico de polipropileno. El color de la sutura es azul. Esterilizada con óxido de etileno. Sutura de Polipropileno PROLENE® Si buscas otra sutura ETHICON, busca la referencia en el catálogo adjunto y solicítanosla por mail. SUTURAS ETHICON",
+   "cats": [
+    39
+   ]
+  },
+  {
+   "id": 316,
+   "name": "SUERO FISIOLÓGICO IRRIGACIÓN 100 ml",
+   "img": "https://producsan.es/cms/img/p/5/9/4/594-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/9/4/594-home_default.jpg",
+   "desc": "Suero fisiológico estéril para irrigación de B.Braun. Cloruro de sodio al 0,9% (NaCl 0,9%).",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 317,
+   "name": "SUERO FISIOLÓGICO IRRIGACIÓN 10ml",
+   "img": "https://producsan.es/cms/img/p/5/9/7/597-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/5/9/7/597-home_default.jpg",
+   "desc": "Suero fisiológico estéril para irrigación de B.Braun. Cloruro de sodio al 0,9% (NaCl 0,9%).",
+   "cats": [
+    44
+   ]
+  },
+  {
+   "id": 318,
+   "name": "VENDA TENSOPLAST",
+   "img": "https://producsan.es/cms/img/p/6/0/0/600-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/0/0/600-home_default.jpg",
+   "desc": "VENDA ADHESIVA TENSOPLAST de algodón y viscosa blanqueada. Adhesiva, extensible, porosa, radiotransparente, hidrófuga, no se deshilacha. Tiene los bordes no orillados para evitar marcas en la piel, y el hilo longitudinal coloreado en el centro, fácil orientación en técnica circular.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 319,
+   "name": "VENDA COHESIVA DE FIJACIÓN \"PEHA-HAFT\" 6cm x 4m",
+   "img": "https://producsan.es/cms/img/p/6/0/2/602-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/0/2/602-home_default.jpg",
+   "desc": "VENDA COHESIVA PEHA-HAFT DE HARTMANN con doble efecto de cohesión gracias a su estructura de fibra crepé y a la impregnación con látex. Se adhiere únicamente sobre ella misma, no se adhiere al pelo, piel o ropa. Es transpirable y agradable para la piel. Puede ser esterilizada.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 320,
+   "name": "VENDA COHESIVA DE FIJACIÓN \"PEHA-HAFT\"",
+   "img": "https://producsan.es/cms/img/p/6/0/4/604-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/0/4/604-home_default.jpg",
+   "desc": "VENDA COHESIVA PEHA-HAFT DE HARTMANN con doble efecto de cohesión gracias a su estructura de fibra crepé y a la impregnación con látex. Se adhiere únicamente sobre ella misma, no se adhiere al pelo, piel o ropa. Es transpirable y agradable para la piel. Puede ser esterilizada.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 321,
+   "name": "VENDA ELÁSTICA DE CREPE",
+   "img": "https://producsan.es/cms/img/p/6/0/8/608-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/0/8/608-home_default.jpg",
+   "desc": "Venda Elástica de crepe es una venda de gasa plana, elástica longitudinalmente que facilita su aplicación y adaptabilidad.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 322,
+   "name": "VENDA ELASTICA DE CREPE 10cm x 10m",
+   "img": "https://producsan.es/cms/img/p/6/1/0/610-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/1/0/610-home_default.jpg",
+   "desc": "Naturcrepé® -S venda de crepéVenda de compresión moderada y constante para lesiones traumáticas y reducción del edema post inmovilización.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 323,
+   "name": "VENDA MALLA TUBULAR ELÁSTICA CON LÁTEX LIDERFIX",
+   "img": "https://producsan.es/cms/img/p/6/1/2/612-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/1/2/612-home_default.jpg",
+   "desc": "VENDA TUBULAR MALLA LIDERFIX CON LATEX de LIDERMED es un Vendaje tubular de malla elástica para sujeción de apósitos. La venda está elaborada en material elástico consistente en una mezcla compuesta por un 50% hilo de poliester y el 50% restante, hilo de látex natural con doble recubrimiento de fibra poliamida",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 324,
+   "name": "VENDA MALLA TUBULAR ELÁSTICA SIN LÁTEX LIDERFIX",
+   "img": "https://producsan.es/cms/img/p/6/1/3/613-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/1/3/613-home_default.jpg",
+   "desc": "VENDA TUBULAR MALLA LIDERFIX SIN LATEX de LIDERMED es un Vendaje tubular de malla elástica para sujeción de apósitos. La venda está elaborada en material elástico consistente en una mezcla compuesta por un 50% hilo de poliéster y el 50% restante, hilo de látex natural con doble recubrimiento de fibra poliamida",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 325,
+   "name": "VENDA MALLA-HILO ORILLADA",
+   "img": "https://producsan.es/cms/img/p/6/1/4/614-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/1/4/614-home_default.jpg",
+   "desc": "VENDA GASA ORILLADA es una venda tipo gasilla de viscosa. Adecuadas para fijar apósitos, material acolchado, cánulas, etc., como tejido de soporte de vendajes, para fijar tablillas o para realizar vendajes de presión o emergencia en primeros auxilios.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 326,
+   "name": "VENDA TUBULAR LIDERTON",
+   "img": "https://producsan.es/cms/img/p/6/2/1/621-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/2/1/621-home_default.jpg",
+   "desc": "VENDA TUBULAR BLANCO GRUESO LIDERTON de LIDERMED es un vendaje tubular para troncos gruesos de adulto, que cubre la piel amoldándose a ella. El tejido está compuesto de hilo grueso de algodón 100% de color blanco.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 327,
+   "name": "VENDA TUBULAR COMPRESIVA LIDERGRIP",
+   "img": "https://producsan.es/cms/img/p/6/3/3/633-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/3/3/633-home_default.jpg",
+   "desc": "VENDA TUBULAR ELASTICA LIDERGRIP de LIDERMED es un tejido tubular de punto, elástico, que nos permite ejercer una presión uniforme y prolongada sobre la parte en que se aplica",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 329,
+   "name": "VENDA TUBULAR COMPRESIVA LASTOGRIP",
+   "img": "https://producsan.es/cms/img/p/6/5/4/654-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/5/4/654-home_default.jpg",
+   "desc": "Lastogrip de Hartmann es una venda tubular permanentemente elástica que se puede retirar y volver a colocar tantas veces como se requiera. La venda tiene un alto contenido en fibras de algodón y ejerce una compresión media uniforme y un ajuste sin arrugas.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 330,
+   "name": "VENDA YESO PLATRIX",
+   "img": "https://producsan.es/cms/img/p/6/5/8/658-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/5/8/658-home_default.jpg",
+   "desc": "VENDA YESO PLATRIX de HARTMANN BOLSA 2 UD es una venda de yeso natural en soporte de algodón, para vendajes circulares de yeso. Presentación: bolsa con dos unidades. Marcado CE en conformidad con la Directiva EU 93/42/CEE para productos sanitarios.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 331,
+   "name": "VENDA YESO MARMOLITA",
+   "img": "https://producsan.es/cms/img/p/6/5/9/659-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/5/9/659-home_default.jpg",
+   "desc": "Venda de yeso de alta calidad y máxima resistencia. Constituida por gasa rectilínea de 100% algodón y yeso de calidad estrictamente controlada. Presentación: bolsa de 2 rollos.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 332,
+   "name": "VENDA YESO GYPSONA (UNIDAD)",
+   "img": "https://producsan.es/cms/img/p/6/6/2/662-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/6/2/662-home_default.jpg",
+   "desc": "VENDA YESO GYPSONA indicada para todo tipo de férulas y yesos en cirugía ortopédica y traumatología. Venda de yeso de alta calidad y resistencia. Construida por una gasa entrelazada, de algodón 100% e impregnada con yeso de granulometría y calidad estrictamente controlada. La gasa está enrollada en un tubo cilíndrico de plástico. Es de fraguado rápido....",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 333,
+   "name": "VENDA ACOLCHADO BAJO YESO SOFFBAN NATURAL",
+   "img": "https://producsan.es/cms/img/p/6/6/6/666-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/6/6/666-home_default.jpg",
+   "desc": "VENDA ACOLCHADA SOFFBAN NATURAL de BSN está indicado para la protección térmica y mecánica de la piel y prominencias óseas debajo de férulas, yesos y vendajes adhesivos/compresivos de larga duración. Presentación: Bolsa de 12 unidades.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 334,
+   "name": "VENDA ACOLCHADA SOFFBAN PLUS 10cm x 2,7m (B/12 UNID)",
+   "img": "https://producsan.es/cms/img/p/6/6/7/667-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/6/7/667-home_default.jpg",
+   "desc": "VENDA ACOLCHADA SOFFBAN PLUS 2,7m x 7,5cm B/12 UD. Indicado para la protección térmica y mecánica de la piel y prominencias óseas debajo de férulas, moldes ortopédicos, yesos y vendajes adhesivos / compresivos de larga duración. Venda de acolchado de poliéster. Protector debajo de moldes ortopédicos.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 335,
+   "name": "VENDA ACOLCHADO POLIURETANO \"TENSOBAN\" 7cm x 20m (C/12 ROLLOS)",
+   "img": "https://producsan.es/cms/img/p/6/6/9/669-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/6/9/669-home_default.jpg",
+   "desc": "VENDA ESPUMA TENSOBAND 20m x 7cm. C/ 12 UNID. Indicada como pre-vendaje de protección de la piel antes de aplicar vendajes adhesivos o yesos, como almohadillado de protección sobre prominencias óseas debajo de vendajes de cualquier tipo o como \"pre-taping\" en vendajes funcionales de tipo preventivo o terapéutico.",
+   "cats": [
+    6
+   ]
+  },
+  {
+   "id": 339,
+   "name": "AGUJAS 21G (0,8x40mm) (C/100 UNID) BD",
+   "img": "https://producsan.es/cms/img/p/6/7/7/677-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/7/7/677-home_default.jpg",
+   "desc": "Agujas estériles de un solo uso, destinadas a administrar inyectables por vía intramuscular, endovenosa, etc. o para la extracción de fluidos del cuerpo humano. Punta indolora (triple biselado).",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 340,
+   "name": "AGUJA ESPINAL 22G 3.00 IN (0,7x75mm) (C/25 UNID) BD",
+   "img": "https://producsan.es/cms/img/p/6/8/5/685-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/8/5/685-home_default.jpg",
+   "desc": "REF. FABRICANTE - 405255 Las agujas espinales aportan al especialista la precisión y seguridad necesarias para su trabajo diario. Aguja espinal 22Gx3.75 mm 0,7.Color negroCaja de 25 unid",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 341,
+   "name": "AGUJA ESPINAL 19G (1,1x90mm) (C/25 UNID) BD",
+   "img": "https://producsan.es/cms/img/p/6/8/6/686-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/8/6/686-home_default.jpg",
+   "desc": "REF. FABRICANTE - 405250 Las agujas espinales aportan al especialista la precisión y seguridad necesarias para su trabajo diario. Aguja espinal 19Gx3. 19G 90 mm 1,1.Color cremaCaja de 25 unid",
+   "cats": [
+    4
+   ]
+  },
+  {
+   "id": 342,
+   "name": "VACUTAINER CON PALOMITA 21G (0.8x19mm) L:18cm (C/25 UNID) VERDE - BD",
+   "img": "https://producsan.es/cms/img/p/6/8/8/688-large_default.jpg",
+   "thumb": "https://producsan.es/cms/img/p/6/8/8/688-home_default.jpg",
+   "desc": "Ref. fabricante: 368652 Palomilla de Seguridad BD Vacutainer® Safety-LokT21G (0,8mmx19mm) con Portatubos Premontado 305mm., para extracción múltiple de sangre en venas difíciles y hemocultivos con sistena por vacío. VERDE. Calibre: 21G (0,8mm) - Longitud Aguja: 19 mm - Longitud tubular: 305mm.",
+   "cats": [
+    4
+   ]
+  }
+ ]
+}

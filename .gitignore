@@ -1,0 +1,5 @@
+# Vista previa para Claude (fotos en base64, se regenera con tools/build-artifact.mjs)
+.artifact/
+node_modules/
+.DS_Store
+Thumbs.db

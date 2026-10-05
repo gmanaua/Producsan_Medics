@@ -1,0 +1,478 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Producsan Mèdics</title>
+<meta name="description" content="Material sanitario y de laboratorio para clínicas y profesionales en Castelldefels.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400&family=Inter:wght@300;500&display=swap">
+<style>
+/* Layout: editorial chapters alternating Paper White and Powder Blue bands, 1200px column, hairlines instead of shadows.
+   Estilo de referencia: Aevi Wellness (Refero) – tema claro único, a propósito. */
+:root {
+  color-scheme: light;
+  --powder: #d5e0ea;      /* bandas de sección, bordes suaves */
+  --bloom: #a3bfdb;       /* único acento: botón principal y estado activo */
+  --bloom-ink: #2c4a69;   /* texto sobre el acento, para que se lea bien */
+  --ink: #231f20;         /* texto y líneas finas */
+  --paper: #ffffff;       /* fondo y tarjetas */
+  --mist: #5f6368;        /* texto secundario */
+  --font-display: "Inter Tight", "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-body: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --gutter: clamp(16px, 4vw, 32px);
+  --max: 1200px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font: 300 16px/1.33 var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+img { max-width: 100%; display: block; }
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 1px solid var(--ink); outline-offset: 3px; }
+
+.wrap { max-width: var(--max); margin-inline: auto; padding-inline: var(--gutter); }
+.band { background: var(--powder); }
+.label { font-size: 12px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; color: var(--mist); }
+h1, h2, h3 { font-family: var(--font-display); font-weight: 300; margin: 0; text-wrap: balance; letter-spacing: -0.01em; }
+h1 { font-size: clamp(36px, 6vw, 54px); line-height: 1.08; }
+h2 { font-size: clamp(28px, 4vw, 42px); line-height: 1.08; }
+h3 { font-size: 24px; line-height: 1.11; }
+p { margin: 0; }
+
+/* Botones */
+.pill {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: var(--bloom); color: var(--bloom-ink); border: 0; border-radius: 60px;
+  padding: 12px 22px; font-size: 14px; font-weight: 500; text-decoration: none; cursor: pointer;
+  transition: background .2s;
+}
+.pill:hover { background: color-mix(in srgb, var(--bloom) 82%, var(--ink)); }
+.ghost {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: transparent; border: 1px solid var(--ink); border-radius: 2px;
+  padding: 11px 16px; font-size: 14px; font-weight: 300; text-decoration: none; cursor: pointer;
+}
+.ghost:hover { background: var(--ink); color: var(--paper); }
+
+/* Cabecera */
+header.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
+  background: var(--paper); border-bottom: 1px solid var(--ink);
+}
+.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-block: 12px; }
+.top .logo img { height: 34px; width: auto; }
+.top nav { display: flex; gap: 24px; font-size: 14px; }
+.top nav a { text-decoration: none; padding-block: 4px; border-bottom: 1px solid transparent; }
+.top nav a:hover { border-bottom-color: var(--bloom); }
+.top .call { font-size: 14px; text-decoration: none; white-space: nowrap; font-variant-numeric: tabular-nums; }
+@media (max-width: 760px) { .top nav { display: none; } .top .logo img { height: 28px; } }
+
+/* Portada */
+.hero { border-bottom: 1px solid var(--ink); overflow: hidden; }
+.hero .wrap { display: grid; grid-template-columns: 1.05fr 1fr; gap: 48px; align-items: center; padding-block: 64px; }
+.hero-copy { display: grid; gap: 24px; min-width: 0; }
+.hero-copy p.lead { font-size: 18px; max-width: 34em; color: var(--ink); }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.collage { position: relative; aspect-ratio: 5 / 4; max-width: 100%; }
+.collage figure { position: absolute; margin: 0; background: var(--paper); border: 1px solid var(--ink); border-radius: 2px; overflow: hidden; }
+.collage img { width: 100%; height: 100%; object-fit: cover; }
+.collage .a { left: 0; top: 8%; width: 42%; aspect-ratio: 4/5; }
+.collage .b { left: 30%; top: 0; width: 38%; aspect-ratio: 4/5; z-index: 2; }
+.collage .c { right: 0; top: 22%; width: 40%; aspect-ratio: 4/5; z-index: 1; }
+.collage .tag { position: absolute; left: 32%; bottom: 0; z-index: 3; background: var(--paper); border: 1px solid var(--ink); border-radius: 2px; padding: 12px 16px; font-size: 14px; display: grid; gap: 2px; }
+.collage .tag b { font-weight: 500; }
+@media (max-width: 860px) { .hero .wrap { grid-template-columns: 1fr; padding-block: 40px; gap: 32px; } }
+
+/* Cifras */
+.facts .wrap { display: grid; grid-template-columns: repeat(4, 1fr); padding-block: 0; }
+.facts div { padding: 24px 16px 24px 0; display: grid; gap: 4px; border-right: 1px solid var(--ink); padding-left: 16px; }
+.facts div:first-child { padding-left: 0; }
+.facts div:last-child { border-right: 0; }
+.facts strong { font-family: var(--font-display); font-weight: 300; font-size: 36px; line-height: 1.09; font-variant-numeric: tabular-nums; }
+.facts span { font-size: 14px; }
+@media (max-width: 760px) {
+  .facts .wrap { grid-template-columns: 1fr 1fr; }
+  .facts div { padding-left: 0; border-right: 0; border-bottom: 1px solid var(--ink); }
+  .facts div:nth-last-child(-n+2) { border-bottom: 0; }
+}
+
+section.chapter { padding-block: 72px; }
+.chapter-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 16px 32px; margin-bottom: 32px; }
+.chapter-head > div { display: grid; gap: 12px; max-width: 40em; }
+
+/* Familias */
+.families { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0; border-top: 1px solid var(--ink); border-left: 1px solid var(--ink); }
+.family {
+  display: grid; grid-template-rows: auto 1fr; background: var(--paper); text-align: left;
+  border: 0; border-right: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 0; cursor: pointer;
+}
+.family .ph { aspect-ratio: 4/3; overflow: hidden; background: var(--paper); }
+.family .ph img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s; }
+.family:hover .ph img { transform: scale(1.04); }
+.family .cap { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; padding: 12px 16px 16px; border-top: 1px solid var(--powder); font-size: 14px; }
+.family .cap span:last-child { color: var(--mist); font-variant-numeric: tabular-nums; font-size: 12px; }
+.family:hover .cap span:first-child { text-decoration: underline; text-decoration-color: var(--bloom); text-underline-offset: 4px; }
+
+/* Catálogo */
+.toolbar { display: grid; gap: 16px; margin-bottom: 32px; }
+.search { display: flex; align-items: center; gap: 12px; border-bottom: 1px solid var(--ink); max-width: 520px; }
+.search svg { flex: none; }
+.search input { flex: 1; min-width: 0; border: 0; background: transparent; padding: 12px 0; font: 300 16px var(--font-body); color: var(--ink); outline: none; }
+.search input::placeholder { color: var(--mist); }
+.search:focus-within { border-bottom-color: #000; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { border: 1px solid var(--powder); background: var(--paper); border-radius: 2px; padding: 7px 10px; font-size: 12px; cursor: pointer; }
+.chip:hover { border-color: var(--ink); }
+.chip[aria-pressed="true"] { background: var(--bloom); border-color: var(--bloom); color: var(--bloom-ink); font-weight: 500; }
+.count { font-size: 14px; color: var(--mist); font-variant-numeric: tabular-nums; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 24px 16px; }
+.card { display: grid; grid-template-rows: auto 1fr; background: var(--paper); border: 1px solid var(--powder); border-radius: 2px; text-align: left; padding: 0; cursor: pointer; overflow: hidden; }
+.card:hover { border-color: var(--ink); }
+.card .ph { aspect-ratio: 4/5; overflow: hidden; border-bottom: 1px solid var(--powder); }
+.card .ph img { width: 100%; height: 100%; object-fit: cover; }
+.card .body { display: grid; gap: 10px; align-content: start; padding: 14px 16px 16px; min-width: 0; }
+.card .name { font-size: 14px; line-height: 1.31; font-weight: 500; overflow-wrap: anywhere; }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; }
+.badge { border: 1px solid var(--powder); border-radius: 2px; padding: 3px 7px; font-size: 11px; line-height: 1.29; color: var(--ink); }
+.badge.fill { background: var(--powder); }
+.more { display: flex; justify-content: center; margin-top: 40px; }
+.empty { padding: 48px 0; font-size: 16px; display: grid; gap: 16px; justify-items: start; }
+
+/* Sobre nosotros */
+.split { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+.split .frame { border: 1px solid var(--ink); border-radius: 2px; padding: 16px; background: var(--paper); display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.split .frame img { aspect-ratio: 4/5; object-fit: cover; width: 100%; }
+.split .text { display: grid; gap: 20px; min-width: 0; }
+.split .text p { max-width: 36em; }
+.split ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--ink); }
+.split li { display: flex; justify-content: space-between; gap: 16px; padding: 12px 0; border-bottom: 1px solid var(--ink); font-size: 14px; }
+.split li span:last-child { color: var(--mist); text-align: right; }
+@media (max-width: 860px) { .split { grid-template-columns: 1fr; } }
+
+/* Contacto */
+.contact { background: var(--ink); color: var(--paper); }
+.contact .wrap { padding-block: 72px; display: grid; grid-template-columns: 1.1fr 1fr; gap: 48px; }
+.contact .label { color: var(--powder); }
+.contact h2 { color: var(--paper); }
+.contact-list { display: grid; gap: 0; border-top: 1px solid color-mix(in srgb, var(--paper) 35%, transparent); }
+.contact-row { display: grid; grid-template-columns: 110px 1fr auto; gap: 16px; align-items: center; padding: 16px 0; border-bottom: 1px solid color-mix(in srgb, var(--paper) 35%, transparent); }
+.contact-row .k { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--powder); }
+.contact-row .v { font-size: 18px; min-width: 0; overflow-wrap: anywhere; user-select: all; font-variant-numeric: tabular-nums; }
+.copy { background: transparent; color: var(--paper); border: 1px solid color-mix(in srgb, var(--paper) 50%, transparent); border-radius: 2px; padding: 6px 10px; font-size: 12px; cursor: pointer; }
+.copy:hover { border-color: var(--paper); }
+.contact .pill { justify-self: start; }
+@media (max-width: 860px) { .contact .wrap { grid-template-columns: 1fr; } .contact-row { grid-template-columns: 1fr auto; } .contact-row .k { grid-column: 1 / -1; } }
+
+footer { padding-block: 24px; font-size: 12px; color: var(--mist); }
+footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+
+/* Ficha de producto */
+dialog { border: 1px solid var(--ink); border-radius: 2px; padding: 0; width: min(880px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); background: var(--paper); color: var(--ink); }
+dialog::backdrop { background: color-mix(in srgb, var(--powder) 80%, transparent); }
+.sheet { display: grid; grid-template-columns: 1fr 1.1fr; }
+.sheet .ph { border-right: 1px solid var(--ink); background: var(--paper); }
+.sheet .ph img { width: 100%; height: 100%; object-fit: cover; aspect-ratio: 4/5; }
+.sheet .info { display: grid; gap: 20px; align-content: start; padding: 32px; min-width: 0; overflow-y: auto; }
+.sheet h3 { font-size: 28px; line-height: 1.1; overflow-wrap: anywhere; }
+.sheet .desc { font-size: 15px; line-height: 1.5; max-width: 60ch; }
+.sheet .ask { border-top: 1px solid var(--ink); padding-top: 20px; display: grid; gap: 12px; font-size: 14px; }
+.sheet .ask .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.close { position: absolute; top: 12px; right: 12px; background: var(--paper); border: 1px solid var(--ink); border-radius: 2px; width: 36px; height: 36px; display: grid; place-items: center; cursor: pointer; }
+@media (max-width: 700px) {
+  .sheet { grid-template-columns: 1fr; }
+  .sheet .ph { border-right: 0; border-bottom: 1px solid var(--ink); }
+  .sheet .ph img { aspect-ratio: 4/3; }
+  .sheet .info { padding: 24px 16px; }
+}
+.toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 10px 16px; border-radius: 2px; font-size: 14px; z-index: 50; }
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#inicio" aria-label="Producsan Mèdics, inicio"><img id="logo" src="img/logo.jpg" alt="Producsan Mèdics, S.L." width="119" height="34"></a>
+    <nav aria-label="Secciones">
+      <a href="#familias">Familias</a>
+      <a href="#catalogo">Catálogo</a>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+    <a class="call" href="tel:+34655903996">655 903 996</a>
+  </div>
+</header>
+
+<main id="inicio">
+  <section class="hero">
+    <div class="wrap">
+      <div class="hero-copy">
+        <span class="label">Material sanitario · Castelldefels</span>
+        <h1>Todo lo que una consulta gasta cada semana, en una tienda de barrio.</h1>
+        <p class="lead">Gasas, apósitos, guantes, suturas, instrumental y papel de camilla para clínicas, consultas, podólogos, centros de estética y profesionales sanitarios. Pide por teléfono o pasa por la tienda.</p>
+        <div class="hero-actions">
+          <a class="pill" href="#catalogo">Ver el catálogo</a>
+          <a class="ghost" href="#contacto">Cómo pedir</a>
+        </div>
+      </div>
+      <div class="collage" id="collage" aria-hidden="true"></div>
+    </div>
+  </section>
+
+  <section class="facts band" aria-label="La tienda en cifras">
+    <div class="wrap">
+      <div><strong id="f-refs">273</strong><span>referencias en catálogo</span></div>
+      <div><strong id="f-fams">15</strong><span>familias de producto</span></div>
+      <div><strong>2</strong><span>teléfonos de atención directa</span></div>
+      <div><strong>1</strong><span>tienda física en Castelldefels</span></div>
+    </div>
+  </section>
+
+  <section class="chapter" id="familias">
+    <div class="wrap">
+      <div class="chapter-head">
+        <div>
+          <span class="label">Familias</span>
+          <h2>Elige por familia de producto</h2>
+        </div>
+      </div>
+      <div class="families" id="families"></div>
+    </div>
+  </section>
+
+  <section class="chapter band" id="catalogo">
+    <div class="wrap">
+      <div class="chapter-head">
+        <div>
+          <span class="label">Catálogo</span>
+          <h2>Busca una referencia</h2>
+          <p>Toca un producto para ver su ficha y pedir precio. Los formatos (caja, bolsa, fardo) aparecen en cada tarjeta.</p>
+        </div>
+      </div>
+      <div class="toolbar">
+        <label class="search" for="q">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg>
+          <input id="q" type="search" placeholder="Busca: gasa estéril, guantes nitrilo, sutura 3/0…" autocomplete="off">
+        </label>
+        <div class="chips" id="chips" role="group" aria-label="Filtrar por familia"></div>
+        <span class="count" id="count" aria-live="polite"></span>
+      </div>
+      <div class="grid" id="grid"></div>
+      <div class="more"><button class="ghost" id="more" type="button">Mostrar más productos</button></div>
+    </div>
+  </section>
+
+  <section class="chapter" id="nosotros">
+    <div class="wrap split">
+      <div class="frame" id="about-frame" aria-hidden="true"></div>
+      <div class="text">
+        <span class="label">Sobre nosotros</span>
+        <h2>Una tienda pequeña, con el almacén de una grande</h2>
+        <p>Producsan Mèdics suministra material sanitario y de laboratorio desde su tienda de la Rambla Josep Tarradellas, en Castelldefels. Trabajamos con marcas que los profesionales ya conocen, como Hartmann, 3M, Leukoplast, Tork o Inibsa, y te asesoramos para que pidas el formato que de verdad necesitas.</p>
+        <ul>
+          <li><span>Para quién</span><span>Clínicas, consultas, residencias, estética y particulares</span></li>
+          <li><span>Cómo pedir</span><span>Por teléfono, por email o en la tienda</span></li>
+          <li><span>Formatos</span><span>Unidad, caja, bolsa y fardo</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</main>
+
+<section class="contact" id="contacto">
+  <div class="wrap">
+    <div style="display:grid;gap:20px;align-content:start;min-width:0">
+      <span class="label">Contacto</span>
+      <h2>Pide precio o pásate por la tienda</h2>
+      <p style="max-width:34em">Dinos la referencia y la cantidad, y te respondemos con precio y plazo de entrega.</p>
+      <a class="pill" href="https://www.google.com/maps/search/?api=1&query=Rambla+Josep+Tarradellas+3+08860+Castelldefels" target="_blank" rel="noopener">Abrir en Google Maps</a>
+    </div>
+    <div class="contact-list" id="contact-list"></div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>© Producsan Mèdics, S.L. · Rambla Josep Tarradellas nº3, local 3 · 08860 Castelldefels</span>
+    <span>Precios y disponibilidad bajo consulta</span>
+  </div>
+</footer>
+
+<dialog id="sheet" aria-labelledby="sheet-title">
+  <button class="close" type="button" id="sheet-close" aria-label="Cerrar ficha">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><path d="M5 5l14 14M19 5 5 19"/></svg>
+  </button>
+  <div class="sheet">
+    <div class="ph"><img id="sheet-img" alt=""></div>
+    <div class="info">
+      <span class="label" id="sheet-fam"></span>
+      <h3 id="sheet-title"></h3>
+      <div class="badges" id="sheet-badges"></div>
+      <p class="desc" id="sheet-desc"></p>
+      <div class="ask">
+        <span>¿Quieres precio? Copia este mensaje y envíalo por email o WhatsApp:</span>
+        <p id="sheet-msg" style="user-select:all;background:var(--powder);padding:12px;border-radius:2px;font-size:14px"></p>
+        <div class="row">
+          <button class="pill" type="button" id="sheet-copy">Copiar mensaje</button>
+          <a class="ghost" id="sheet-mail" href="#">Escribir a producsan@producsan.es</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</dialog>
+
+<script src="catalog.js"></script>
+<script>
+(() => {
+  const { store, categories, products } = window.CATALOG;
+  const catName = Object.fromEntries(categories.map(c => [c.id, c.name]));
+  const $ = id => document.getElementById(id);
+  const src = p => (window.IMAGES && window.IMAGES[p]) || p;
+  const esc = s => String(s).replace(/[&<>"]/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m]));
+  const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+  // Nombre legible: "GASA ESTERIL ... (C/100 UNID)" -> "Gasa estéril ..." + formato
+  const UNITS = { C: 'Caja', B: 'Bolsa', F: 'Fardo', P: 'Paquete', PAQ: 'Paquete' };
+  function parse(p) {
+    let name = p.n.replace(/\s+/g, ' ').trim();
+    let pack = '';
+    const m = name.match(/\(([^)]*)\)\s*$/);
+    if (m) {
+      const raw = m[1].trim();
+      const u = raw.match(/^(C|B|F|P|PAQ)\s*\/\s*(.+)$/i);
+      if (u) pack = `${UNITS[u[1].toUpperCase()]} de ${u[2].replace(/\bUNID\b\.?/i, 'uds').replace(/\bUnid\b/, 'uds').toLowerCase()}`;
+      else if (/^unid$/i.test(raw)) pack = 'Por unidad';
+      else pack = raw.charAt(0).toUpperCase() + raw.slice(1).toLowerCase();
+      name = name.slice(0, m.index).trim();
+    }
+    const n = norm(name);
+    const sterile = /n\/?\s?esteril|no esteril/.test(n) ? 'No estéril' : /esteril/.test(n) ? 'Estéril' : '';
+    const pretty = name.toLowerCase().replace(/(^|[\s"(«])(\p{L})/u, (a, b, c) => b + c.toUpperCase())
+      .replace(/\besteril\b/g, 'estéril').replace(/\bunid\b/g, 'uds');
+    // marcas entre comillas en mayúscula inicial
+    const finalName = pretty.replace(/"([^"]+)"/g, (a, b) => '«' + b.replace(/\b\p{L}/gu, c => c.toUpperCase()) + '»').replace(/["]+/g, '');
+    return { ...p, name: finalName, pack, sterile, key: norm(p.n + ' ' + p.d) };
+  }
+  const items = products.map(parse);
+
+  // Portada: collage y marco "nosotros"
+  const pick = ids => ids.map(id => items.find(p => p.id === id)).filter(Boolean);
+  const heroPicks = pick([160, 202, 149]);
+  const collageItems = heroPicks.length === 3 ? heroPicks : items.slice(0, 3);
+  $('collage').innerHTML = ['a', 'b', 'c'].map((k, i) => `<figure class="${k}"><img src="${src(collageItems[i].img)}" alt=""></figure>`).join('') +
+    `<div class="tag"><b>${esc(collageItems[1].name)}</b><span>${esc(collageItems[1].pack || 'Consulta formatos')}</span></div>`;
+  const aboutItems = pick([194, 196]).length === 2 ? pick([194, 196]) : items.slice(3, 5);
+  $('about-frame').innerHTML = aboutItems.map(p => `<img src="${src(p.img)}" alt="">`).join('');
+
+  $('logo').src = src('img/logo.jpg');
+  $('f-refs').textContent = items.length;
+  $('f-fams').textContent = categories.length;
+
+  // Familias
+  $('families').innerHTML = categories.map(c => {
+    const first = items.find(p => p.c.includes(c.id) && p.img);
+    return `<button class="family" type="button" data-cat="${c.id}">
+      <div class="ph">${first ? `<img src="${src(first.img)}" alt="" loading="lazy">` : ''}</div>
+      <div class="cap"><span>${esc(c.name)}</span><span>${c.count}</span></div>
+    </button>`;
+  }).join('');
+  $('families').addEventListener('click', e => {
+    const b = e.target.closest('[data-cat]'); if (!b) return;
+    setCat(+b.dataset.cat);
+    $('catalogo').scrollIntoView();
+  });
+
+  // Catálogo
+  let cat = 0, q = '', shown = 24;
+  $('chips').innerHTML = [`<button class="chip" type="button" data-c="0" aria-pressed="true">Todo</button>`]
+    .concat(categories.map(c => `<button class="chip" type="button" data-c="${c.id}" aria-pressed="false">${esc(c.name)}</button>`)).join('');
+  $('chips').addEventListener('click', e => { const b = e.target.closest('[data-c]'); if (b) setCat(+b.dataset.c); });
+  function setCat(id) {
+    cat = id; shown = 24;
+    document.querySelectorAll('.chip').forEach(b => b.setAttribute('aria-pressed', String(+b.dataset.c === id)));
+    render();
+  }
+  $('q').addEventListener('input', e => { q = norm(e.target.value.trim()); shown = 24; render(); });
+  $('more').addEventListener('click', () => { shown += 24; render(); });
+
+  function filtered() {
+    const words = q.split(/\s+/).filter(Boolean);
+    return items.filter(p => (!cat || p.c.includes(cat)) && words.every(w => p.key.includes(w)));
+  }
+  function render() {
+    const list = filtered();
+    const where = cat ? ` en ${catName[cat]}` : '';
+    $('count').textContent = `${list.length} ${list.length === 1 ? 'producto' : 'productos'}${where}`;
+    if (!list.length) {
+      $('grid').innerHTML = `<div class="empty"><p>No encontramos nada con esa búsqueda. Prueba con otra palabra o llámanos: puede que lo tengamos aunque no esté en la web.</p><button class="ghost" type="button" id="reset">Ver todo el catálogo</button></div>`;
+      $('reset').onclick = () => { $('q').value = ''; q = ''; setCat(0); };
+      $('more').hidden = true;
+      return;
+    }
+    $('grid').innerHTML = list.slice(0, shown).map(p => `
+      <button class="card" type="button" data-id="${p.id}">
+        <div class="ph">${p.img ? `<img src="${src(p.img)}" alt="" loading="lazy">` : ''}</div>
+        <div class="body">
+          <span class="name">${esc(p.name)}</span>
+          <span class="badges">${p.pack ? `<span class="badge fill">${esc(p.pack)}</span>` : ''}${p.sterile ? `<span class="badge">${p.sterile}</span>` : ''}</span>
+        </div>
+      </button>`).join('');
+    $('more').hidden = list.length <= shown;
+    $('more').textContent = `Mostrar más productos (${list.length - shown} restantes)`;
+  }
+  render();
+
+  // Ficha
+  const sheet = $('sheet');
+  $('grid').addEventListener('click', e => { const b = e.target.closest('[data-id]'); if (b) open(+b.dataset.id); });
+  function open(id) {
+    const p = items.find(x => x.id === id);
+    $('sheet-img').src = src(p.img);
+    $('sheet-fam').textContent = p.c.map(c => catName[c]).join(' · ');
+    $('sheet-title').textContent = p.name;
+    $('sheet-badges').innerHTML = (p.pack ? `<span class="badge fill">${esc(p.pack)}</span>` : '') + (p.sterile ? `<span class="badge">${p.sterile}</span>` : '') + `<span class="badge">Ref. web ${p.id}</span>`;
+    $('sheet-desc').textContent = p.d || 'Pregúntanos por las características de este producto y te las enviamos.';
+    const msg = `Hola, me gustaría saber el precio y la disponibilidad de: ${p.n} (ref. web ${p.id}). Cantidad: `;
+    $('sheet-msg').textContent = msg;
+    $('sheet-mail').href = `mailto:${store.email}?subject=${encodeURIComponent('Consulta de precio: ' + p.name)}&body=${encodeURIComponent(msg)}`;
+    sheet.showModal();
+  }
+  $('sheet-close').onclick = () => sheet.close();
+  sheet.addEventListener('click', e => { if (e.target === sheet) sheet.close(); });
+  $('sheet-copy').onclick = () => copy($('sheet-msg').textContent, $('sheet-msg'), 'Mensaje copiado');
+
+  // Contacto
+  const rows = [
+    ['Móvil y WhatsApp', store.mobile],
+    ['Teléfono', store.phone],
+    ['Email', store.email],
+    ['Dirección', `${store.address}, ${store.city}`]
+  ];
+  $('contact-list').innerHTML = rows.map(([k, v], i) => `<div class="contact-row"><span class="k">${k}</span><span class="v" id="cv${i}">${esc(v)}</span><button class="copy" type="button" data-i="${i}">Copiar</button></div>`).join('');
+  $('contact-list').addEventListener('click', e => {
+    const b = e.target.closest('[data-i]'); if (!b) return;
+    copy(rows[b.dataset.i][1], $('cv' + b.dataset.i), 'Copiado');
+  });
+
+  function copy(text, el, ok) {
+    const done = () => toast(ok);
+    const fallback = () => { const r = document.createRange(); r.selectNodeContents(el); const s = getSelection(); s.removeAllRanges(); s.addRange(r); toast('Texto seleccionado: cópialo con Ctrl+C'); };
+    try { navigator.clipboard.writeText(text).then(done, fallback); } catch { fallback(); }
+  }
+  let t;
+  function toast(text) {
+    let el = document.querySelector('.toast');
+    if (!el) { el = document.createElement('div'); el.className = 'toast'; el.setAttribute('role', 'status'); document.body.append(el); }
+    el.textContent = text; el.hidden = false;
+    clearTimeout(t); t = setTimeout(() => el.hidden = true, 2200);
+  }
+})();
+</script>
+</body>
+</html>
