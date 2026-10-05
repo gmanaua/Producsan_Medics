@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Producsan Mèdics</title>
 <meta name="description" content="Material sanitario y de laboratorio para clínicas y profesionales en Castelldefels.">
+<link rel="icon" type="image/png" href="img/symbol.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400&family=Inter:wght@300;500&display=swap">
@@ -67,12 +68,17 @@ header.top {
   background: var(--paper); border-bottom: 1px solid var(--ink);
 }
 .top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-block: 12px; }
-.top .logo img { height: 34px; width: auto; }
+.top .logo { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; }
+.mark { display: inline-flex; align-items: center; gap: 10px; }
+.mark img { width: 38px; height: 38px; flex: none; }
+.mark .words { display: grid; gap: 3px; line-height: 1; }
+.mark .name { font-family: var(--font-display); font-weight: 300; font-size: 23px; letter-spacing: -0.015em; color: var(--ink); }
+.mark .sub { font-family: var(--font-body); font-weight: 500; font-size: 9.5px; letter-spacing: .24em; text-transform: uppercase; color: var(--mist); padding-left: 1px; }
 .top nav { display: flex; gap: 24px; font-size: 14px; }
 .top nav a { text-decoration: none; padding-block: 4px; border-bottom: 1px solid transparent; }
 .top nav a:hover { border-bottom-color: var(--bloom); }
 .top .call { font-size: 14px; text-decoration: none; white-space: nowrap; font-variant-numeric: tabular-nums; }
-@media (max-width: 760px) { .top nav { display: none; } .top .logo img { height: 28px; } }
+@media (max-width: 760px) { .top nav { display: none; } .mark img { width: 32px; height: 32px; } .mark .name { font-size: 20px; } }
 
 /* Portada */
 .hero { border-bottom: 1px solid var(--ink); overflow: hidden; }
@@ -198,7 +204,7 @@ dialog::backdrop { background: color-mix(in srgb, var(--powder) 80%, transparent
 <body>
 <header class="top">
   <div class="wrap">
-    <a class="logo" href="#inicio" aria-label="Producsan Mèdics, inicio"><img id="logo" src="img/logo.jpg" alt="Producsan Mèdics, S.L." width="119" height="34"></a>
+    <a class="logo" href="#inicio" aria-label="Producsan Mèdics, inicio"><span class="mark"><img id="logo" src="img/symbol.png" alt="" width="38" height="38"><span class="words"><span class="name">Producsan</span><span class="sub">Mèdics, S.L.</span></span></span></a>
     <nav aria-label="Secciones">
       <a href="#familias">Familias</a>
       <a href="#catalogo">Catálogo</a>
@@ -370,7 +376,7 @@ dialog::backdrop { background: color-mix(in srgb, var(--powder) 80%, transparent
   const aboutItems = pick([194, 196]).length === 2 ? pick([194, 196]) : items.slice(3, 5);
   $('about-frame').innerHTML = aboutItems.map(p => `<img src="${src(p.img)}" alt="">`).join('');
 
-  $('logo').src = src('img/logo.jpg');
+  $('logo').src = src('img/symbol.png');
   $('f-refs').textContent = items.length;
   $('f-fams').textContent = categories.length;
 
